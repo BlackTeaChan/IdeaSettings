@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flid" />
+      <item value="fild" />
       <item value="get Supplier List" />
       <item value="jdbc Type" />
       <item value="property" />
@@ -34,8 +36,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
+        <entry key="DANISH" value="1" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
