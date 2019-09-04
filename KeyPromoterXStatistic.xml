@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>227</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>315</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ServerView'">
@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>525</Count>
+          <Count>537</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -270,7 +270,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -798,7 +798,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ServerView'">
@@ -926,7 +926,7 @@
           <IdeaActionID>ECTranslation</IdeaActionID>
           <ShortCut>'⌃I'</ShortCut>
           <Description>Translate</Description>
-          <Count>48</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">

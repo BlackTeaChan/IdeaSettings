@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Response Info" />
+      <item value="Brian Clozel" />
+      <item value="Arjen Poutsma" />
+      <item value="Poutsma" />
+      <item value="Arjen" />
+      <item value="Response" />
+      <item value="HTTP VERSION NOT SUPPORTED" />
+      <item value="GATEWAY TIMEOUT" />
+      <item value="SERVICE UNAVAILABLE" />
+      <item value="BAD GATEWAY" />
+      <item value="NOT IMPLEMENTED" />
+      <item value="INTERNAL SERVER ERROR" />
+      <item value="fail" />
       <item value="flid" />
       <item value="fild" />
       <item value="get Supplier List" />
@@ -16,7 +29,6 @@
       <item value="成就" />
       <item value="失败" />
       <item value="failed" />
-      <item value="fail" />
       <item value="falid" />
       <item value="print Stack Trace" />
       <item value="nginx" />
@@ -36,9 +48,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="DANISH" value="1" />
+        <entry key="FINNISH" value="1" />
+        <entry key="FRISIAN" value="2" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
