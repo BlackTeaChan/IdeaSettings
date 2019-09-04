@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="swagger" />
+      <item value="swagger2" />
       <item value="Response Info" />
       <item value="Brian Clozel" />
       <item value="Arjen Poutsma" />
@@ -48,7 +50,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
+        <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="38" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
