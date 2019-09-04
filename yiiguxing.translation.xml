@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Supplier List" />
+      <item value="jdbc Type" />
+      <item value="property" />
       <item value="Under construction" />
       <item value="Inspection info:Under construction" />
       <item value="sql injection violation, syntax error: ERROR" />
@@ -31,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
