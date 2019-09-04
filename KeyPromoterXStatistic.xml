@@ -910,7 +910,7 @@
           <IdeaActionID>ECTranslation</IdeaActionID>
           <ShortCut>'⌃I'</ShortCut>
           <Description>Translate</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">
