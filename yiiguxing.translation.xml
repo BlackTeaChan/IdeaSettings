@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="entry" />
+      <item value="Undefined" />
+      <item value="No Flag" />
+      <item value="Nan Flag" />
+      <item value="缺省" />
+      <item value="DEFENTER" />
+      <item value="flag" />
       <item value="Channel Manager" />
       <item value="Inactive" />
       <item value="channel Inactive" />
@@ -44,18 +51,12 @@
       <item value="failed" />
       <item value="falid" />
       <item value="print Stack Trace" />
-      <item value="nginx" />
-      <item value="Global Exception Handler" />
-      <item value="GlobalExceptionHandler" />
-      <item value="get Message" />
-      <item value="get Localized Message" />
-      <item value="handle Exception" />
-      <item value="common" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
+        <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="2" />
