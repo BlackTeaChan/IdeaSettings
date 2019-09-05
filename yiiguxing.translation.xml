@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Path Variable" />
       <item value="开发手册" />
       <item value="new Full stack engineer" />
       <item value="全栈工程师" />
@@ -50,12 +51,11 @@
       <item value="source is null for getProperty" />
       <item value="Error evaluating expression '" />
       <item value="High level representation of a Excel workbook. This is the first object most users * will construct whether they are reading or writing a workbook. It is also the * top level object for creating new sheets/etc." />
-      <item value="Modbus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="2" />
