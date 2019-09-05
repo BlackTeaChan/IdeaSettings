@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开发手册" />
+      <item value="new Full stack engineer" />
+      <item value="全栈工程师" />
+      <item value="职业" />
+      <item value="job" />
       <item value="swagger" />
       <item value="swagger2" />
       <item value="Response Info" />
@@ -46,12 +51,11 @@
       <item value="Error evaluating expression '" />
       <item value="High level representation of a Excel workbook. This is the first object most users * will construct whether they are reading or writing a workbook. It is also the * top level object for creating new sheets/etc." />
       <item value="Modbus" />
-      <item value="model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="2" />
