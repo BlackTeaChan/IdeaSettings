@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Channel Manager" />
+      <item value="Inactive" />
+      <item value="channel Inactive" />
+      <item value="Active" />
+      <item value="channel Active" />
       <item value="Path Variable" />
       <item value="开发手册" />
       <item value="new Full stack engineer" />
@@ -46,16 +51,11 @@
       <item value="get Localized Message" />
       <item value="handle Exception" />
       <item value="common" />
-      <item value="use Generated Keys" />
-      <item value="key Property" />
-      <item value="source is null for getProperty" />
-      <item value="Error evaluating expression '" />
-      <item value="High level representation of a Excel workbook. This is the first object most users * will construct whether they are reading or writing a workbook. It is also the * top level object for creating new sheets/etc." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="2" />
