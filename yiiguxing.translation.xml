@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Step" />
+      <item value="m Step" />
+      <item value="void" />
       <item value="Remote" />
       <item value="Inspection info:Detects duplicates in source code" />
       <item value="point" />
@@ -48,14 +51,11 @@
       <item value="NOT IMPLEMENTED" />
       <item value="INTERNAL SERVER ERROR" />
       <item value="fail" />
-      <item value="flid" />
-      <item value="fild" />
-      <item value="get Supplier List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
