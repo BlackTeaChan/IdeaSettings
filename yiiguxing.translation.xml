@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fault" />
+      <item value="default" />
       <item value="_REASON。" />
       <item value="area Id" />
       <item value="gateway Id" />
@@ -49,8 +51,6 @@
       <item value="serialize Object" />
       <item value="misstar" />
       <item value="advice" />
-      <item value="成就" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
