@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remote" />
+      <item value="Inspection info:Detects duplicates in source code" />
+      <item value="point" />
+      <item value="print" />
+      <item value="listener" />
+      <item value="listenter" />
+      <item value="listen" />
+      <item value="Interval" />
+      <item value="轮询" />
       <item value="fault" />
       <item value="default" />
       <item value="_REASON。" />
@@ -42,20 +51,11 @@
       <item value="flid" />
       <item value="fild" />
       <item value="get Supplier List" />
-      <item value="jdbc Type" />
-      <item value="property" />
-      <item value="Under construction" />
-      <item value="Inspection info:Under construction" />
-      <item value="sql injection violation, syntax error: ERROR" />
-      <item value="serialize" />
-      <item value="serialize Object" />
-      <item value="misstar" />
-      <item value="advice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
