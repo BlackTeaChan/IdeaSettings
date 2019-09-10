@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>576</Count>
+          <Count>577</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -950,7 +950,7 @@
           <IdeaActionID>ECTranslation</IdeaActionID>
           <ShortCut>'⌃I'</ShortCut>
           <Description>Translate</Description>
-          <Count>90</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">
