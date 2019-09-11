@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="head" />
+      <item value="heard" />
       <item value="/* * It is advised not to edit the smartadmin_production.css * as this will override any changes you make in the * later versions of this theme. * * We advise that you use use this CSS to override * SmartAdmin styles. * * Rename the stylesheet to whatever your liking so it will stay * unique to you with each update of SmartAdmin. */ /* * INDEX * * - HTML * - BODY * - CUSTOM STYLES */" />
       <item value="anon" />
       <item value="global" />
@@ -49,13 +51,11 @@
       <item value="swagger" />
       <item value="swagger2" />
       <item value="Response Info" />
-      <item value="Brian Clozel" />
-      <item value="Arjen Poutsma" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
