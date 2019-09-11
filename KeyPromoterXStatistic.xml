@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>639</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -518,7 +518,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -966,7 +966,7 @@
           <IdeaActionID>ECTranslation</IdeaActionID>
           <ShortCut>'⌃I'</ShortCut>
           <Description>Translate</Description>
-          <Count>94</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">
