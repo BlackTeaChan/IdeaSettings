@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ready" />
       <item value="form" />
       <item value="control" />
       <item value="form-control" />
@@ -50,11 +51,10 @@
       <item value="new Full stack engineer" />
       <item value="全栈工程师" />
       <item value="职业" />
-      <item value="job" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
+        <entry key="CHINESE" value="81" />
         <entry key="ENGLISH" value="81" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
