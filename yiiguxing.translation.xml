@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Devices" />
       <item value="clazz" />
       <item value="温度" />
       <item value="水位" />
@@ -50,12 +51,11 @@
       <item value="缺省" />
       <item value="DEFENTER" />
       <item value="flag" />
-      <item value="Channel Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
