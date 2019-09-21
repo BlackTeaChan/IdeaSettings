@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>434</Count>
+          <Count>436</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ServerView'">
@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>715</Count>
+          <Count>720</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>ECTranslation</IdeaActionID>
           <ShortCut>'⌃I'</ShortCut>
           <Description>Translate</Description>
-          <Count>109</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">
