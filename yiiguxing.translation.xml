@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fault" />
+      <item value="晚于" />
+      <item value="晚了" />
+      <item value="介于" />
+      <item value="之后" />
+      <item value="below" />
+      <item value="past" />
       <item value="save Off Line" />
       <item value="remove Off Line" />
       <item value="Off Line" />
@@ -44,18 +51,11 @@
       <item value="listener" />
       <item value="listenter" />
       <item value="listen" />
-      <item value="Interval" />
-      <item value="轮询" />
-      <item value="fault" />
-      <item value="default" />
-      <item value="_REASON。" />
-      <item value="area Id" />
-      <item value="gateway Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
