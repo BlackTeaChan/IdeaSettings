@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exposed" />
+      <item value="xposed" />
       <item value="get Gateway Status" />
       <item value="Fault" />
       <item value="晚于" />
@@ -49,12 +51,10 @@
       <item value="Inspection info:Detects duplicates in source code" />
       <item value="point" />
       <item value="print" />
-      <item value="listener" />
-      <item value="listenter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
+        <entry key="CHINESE" value="94" />
         <entry key="ENGLISH" value="94" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
