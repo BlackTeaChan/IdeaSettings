@@ -1,0 +1,6 @@
+<templateSet group="UserAndDate">
+  <template name="class-comment" value="/**&#10; * @author $user$&#10; * @date $date$&#10; */" description="Class auto comment" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

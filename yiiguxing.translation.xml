@@ -1,0 +1,70 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="minus" />
+      <item value="减" />
+      <item value="HEAD" />
+      <item value="精讯" />
+      <item value="awesome" />
+      <item value="Could not start Quartz Scheduler after delay" />
+      <item value="async" />
+      <item value="coverage" />
+      <item value="somewhat" />
+      <item value="a bit" />
+      <item value="a little" />
+      <item value="一点点" />
+      <item value="exposed" />
+      <item value="xposed" />
+      <item value="get Gateway Status" />
+      <item value="Fault" />
+      <item value="晚于" />
+      <item value="晚了" />
+      <item value="介于" />
+      <item value="之后" />
+      <item value="below" />
+      <item value="past" />
+      <item value="save Off Line" />
+      <item value="remove Off Line" />
+      <item value="Off Line" />
+      <item value="manager" />
+      <item value="manage" />
+      <item value="mannage" />
+      <item value="mannager" />
+      <item value="get Devices" />
+      <item value="clazz" />
+      <item value="温度" />
+      <item value="水位" />
+      <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.Map' less" />
+      <item value="临时" />
+      <item value="temp" />
+      <item value="schema" />
+      <item value="jwd" />
+      <item value="important" />
+      <item value="ready" />
+      <item value="form" />
+      <item value="control" />
+      <item value="form-control" />
+      <item value="head" />
+      <item value="heard" />
+      <item value="/* * It is advised not to edit the smartadmin_production.css * as this will override any changes you make in the * later versions of this theme. * * We advise that you use use this CSS to override * SmartAdmin styles. * * Rename the stylesheet to whatever your liking so it will stay * unique to you with each update of SmartAdmin. */ /* * INDEX * * - HTML * - BODY * - CUSTOM STYLES */" />
+      <item value="anon" />
+      <item value="global" />
+      <item value="subpage" />
+      <item value="dashboard" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="99" />
+        <entry key="BASQUE" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="FINNISH" value="1" />
+        <entry key="FRISIAN" value="2" />
+        <entry key="CATALAN" value="1" />
+        <entry key="WELSH" value="1" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
