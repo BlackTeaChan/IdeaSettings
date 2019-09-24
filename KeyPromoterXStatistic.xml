@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>302</Count>
+          <Count>303</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -79,6 +79,14 @@
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Create Listener">
