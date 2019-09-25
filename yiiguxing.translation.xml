@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alarmThreshold" />
+      <item value="报警阀值" />
+      <item value="alarm limit" />
+      <item value="alarm number" />
+      <item value="alarm num" />
       <item value="校验" />
       <item value="CLEAN" />
       <item value="calculation" />
@@ -46,16 +51,11 @@
       <item value="schema" />
       <item value="jwd" />
       <item value="important" />
-      <item value="ready" />
-      <item value="form" />
-      <item value="control" />
-      <item value="form-control" />
-      <item value="head" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="103" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
