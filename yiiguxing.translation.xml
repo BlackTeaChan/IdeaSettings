@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculation" />
+      <item value="Divide" />
+      <item value="除以" />
+      <item value="乘" />
       <item value="minus" />
       <item value="减" />
       <item value="HEAD" />
@@ -47,15 +51,11 @@
       <item value="head" />
       <item value="heard" />
       <item value="/* * It is advised not to edit the smartadmin_production.css * as this will override any changes you make in the * later versions of this theme. * * We advise that you use use this CSS to override * SmartAdmin styles. * * Rename the stylesheet to whatever your liking so it will stay * unique to you with each update of SmartAdmin. */ /* * INDEX * * - HTML * - BODY * - CUSTOM STYLES */" />
-      <item value="anon" />
-      <item value="global" />
-      <item value="subpage" />
-      <item value="dashboard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
