@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>318</Count>
+          <Count>319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -926,7 +926,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ServerView'">
