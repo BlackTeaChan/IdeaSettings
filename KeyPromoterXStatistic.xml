@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>478</Count>
+          <Count>479</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ServerView'">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>813</Count>
+          <Count>815</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
