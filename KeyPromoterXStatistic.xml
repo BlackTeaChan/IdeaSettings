@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>320</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>482</Count>
+          <Count>483</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ServerView'">
@@ -318,7 +318,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -470,7 +470,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -942,7 +942,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ServerView'">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
