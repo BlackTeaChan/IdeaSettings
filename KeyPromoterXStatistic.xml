@@ -694,7 +694,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ServerApplication'</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ServerView'">
@@ -807,6 +807,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'boot-backend-1.0.0-SNAPSHOT.jar'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'hmcs-1.0.0-SNAPSHOT....'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'hmcs-1.0.0-SNAPSHOT....'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -942,7 +950,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>128</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ServerView'">
