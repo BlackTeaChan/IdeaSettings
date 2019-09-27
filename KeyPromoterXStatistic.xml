@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>818</Count>
+          <Count>823</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>GotoTest</IdeaActionID>
           <ShortCut>'⇧⌘T'</ShortCut>
           <Description>Test</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Highlight of All Occurrences">
