@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>511</Count>
+          <Count>513</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ServerView'">
@@ -958,7 +958,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>137</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ServerView'">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>213</Count>
+          <Count>215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
