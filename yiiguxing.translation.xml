@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Will" />
+      <item value="超时" />
+      <item value="过期" />
+      <item value="将要过期" />
+      <item value="将要" />
+      <item value="compare To" />
+      <item value="Error attempting to get column 'delete' from result set. Cause: java.sql.SQLException: Invalid value for getInt() - 'delete'" />
       <item value="Security Manager" />
       <item value="No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton. This is an invalid application configuration." />
       <item value="Unexpected error occurred in scheduled task." />
@@ -44,18 +51,11 @@
       <item value="a little" />
       <item value="一点点" />
       <item value="exposed" />
-      <item value="xposed" />
-      <item value="get Gateway Status" />
-      <item value="Fault" />
-      <item value="晚于" />
-      <item value="晚了" />
-      <item value="介于" />
-      <item value="之后" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
