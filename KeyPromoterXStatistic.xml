@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>525</Count>
+          <Count>526</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ServerView'">
