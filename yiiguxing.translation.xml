@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When are we go?" />
+      <item value="When are we fullback?" />
+      <item value="When are we back?" />
+      <item value="When are we going?" />
+      <item value="When are we going" />
+      <item value="我们什么时候走" />
+      <item value="什么时候走" />
+      <item value="什么时候" />
       <item value="begin" />
       <item value="interval" />
       <item value="intelval" />
@@ -43,18 +51,10 @@
       <item value="bit" />
       <item value="alarmThreshold" />
       <item value="报警阀值" />
-      <item value="alarm limit" />
-      <item value="alarm number" />
-      <item value="alarm num" />
-      <item value="校验" />
-      <item value="CLEAN" />
-      <item value="calculation" />
-      <item value="Divide" />
-      <item value="除以" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
+        <entry key="CHINESE" value="122" />
         <entry key="ENGLISH" value="122" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
