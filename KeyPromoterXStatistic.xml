@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>367</Count>
+          <Count>369</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ServerApplication'</Description>
-          <Count>551</Count>
+          <Count>554</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ServerView'">
@@ -966,7 +966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerApplication'</Description>
-          <Count>159</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ServerView'">
@@ -1158,7 +1158,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>244</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
