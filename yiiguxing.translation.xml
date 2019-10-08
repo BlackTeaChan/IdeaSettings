@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="response" />
+      <item value="谢谢" />
+      <item value="ごめんなさい" />
+      <item value="对不起" />
       <item value="最高温度" />
       <item value="风向" />
       <item value="wind force" />
@@ -47,20 +51,17 @@
       <item value="compare To" />
       <item value="Error attempting to get column 'delete' from result set. Cause: java.sql.SQLException: Invalid value for getInt() - 'delete'" />
       <item value="Security Manager" />
-      <item value="No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton. This is an invalid application configuration." />
-      <item value="Unexpected error occurred in scheduled task." />
-      <item value="get Instance" />
-      <item value="player" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="128" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="2" />
         <entry key="CATALAN" value="1" />
+        <entry key="JAPANESE" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
