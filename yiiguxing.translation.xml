@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refer" />
+      <item value="reference" />
+      <item value="参考" />
       <item value="response" />
       <item value="谢谢" />
       <item value="ごめんなさい" />
@@ -48,13 +51,10 @@
       <item value="过期" />
       <item value="将要过期" />
       <item value="将要" />
-      <item value="compare To" />
-      <item value="Error attempting to get column 'delete' from result set. Cause: java.sql.SQLException: Invalid value for getInt() - 'delete'" />
-      <item value="Security Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
+        <entry key="CHINESE" value="127" />
         <entry key="ENGLISH" value="128" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
