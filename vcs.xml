@@ -18,8 +18,12 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="BlackTeaChan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BlackTeaChan/bttools.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\chenh\IdeaProjects" />
   </component>
 </application>
