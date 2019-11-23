@@ -1,0 +1,149 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BackgroundImageConfiguration">
+    <option name="filename" value="http://i.imdb.com/Photos/Ss/0266543/Nemo102.jpg" />
+    <option name="localFile" value="false" />
+    <option name="enabled" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-255-255-255,,,62-105-243-255,,,35-28-55-255,,,69-177-246-255,,,22-50-63-255,,,28-34-65-25,,,112-109-109-255,,,135-132-132-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8002853" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.676259" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ConsoleQuickFilterPanel-expression" value="0|false|false|false|Access denied for user 'hmcs'@'%' to database 'hmcs'" />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.16246954" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.2971768" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.422833" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.7352941" />
+    <property name="INSPECTION_FILTER_HISTORY" value="serialVersionUID" />
+    <property name="InstalledPluginsSearchHistory" value="setting&#10;rest&#10;RESTful&#10;author&#10;Grep Console" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="update&#10;documentation&#10;show&#10;doc" />
+    <property name="LiveContextsPanel[0]" value="0.16638935" />
+    <property name="LiveContextsPanel[1]" value="0.1998002" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.3247779" />
+    <property name="ProjectStructure.TopLevelElements" value="0.17578125" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="RunConfigurable.dividerProportion" value="0.19655173" />
+    <property name="SettingsSearchHistory" value="github&#10;token&#10;setting&#10;serialVersionUID&#10;javadoc" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.49526387" />
+    <property name="SplitFileEditor.Proportion" value="0.5408638" />
+    <property name="SpringBeansModulesPanel[0]" value="0.18315019" />
+    <property name="SpringBeansModulesPanel[1]" value="0.22446689" />
+    <property name="SpringBeansModulesPanel[2]" value="0.28985506" />
+    <property name="SpringBeansModulesPanel[3]" value="0.40899795" />
+    <property name="SpringMvcModulesPanel[0]" value="0.16736402" />
+    <property name="SpringMvcModulesPanel[1]" value="0.20120725" />
+    <property name="SpringMvcModulesPanel[2]" value="0.2522068" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;java&#10;mac&#10;Spring" />
+    <property name="TrendingPluginsSearchHistory" value="menm&#10;Mybatis&#10;CodeGlance&#10;JRebal&#10;Translation" />
+    <property name="UpdatePluginsSearchHistory" value="Mybatis" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.3.8" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="250" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="dir.diff.panel.divider.location" value="92" />
+    <property name="eclipse.project.dir" value="$USER_HOME$/IdeaProjects/rlwmm" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.gist.reindex.count" value="38493" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="find.popup.splitter" value="0.45478037" />
+    <property name="idea.background.editor" value="$USER_HOME$/Downloads/雷姆/711894.png,25,scale,center" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1571038963906" />
+    <property name="last.imported.location" value="$USER_HOME$/IdeaProjects/jsdc" />
+    <property name="lastTip" value="185" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="$USER_HOME$/Downloads/二次元壁纸-4K.jpeg&#10;/Users/blackteachan/Downloads/雷姆/743594.png&#10;/Users/blackteachan/Downloads/雷姆/702653.png&#10;/Users/blackteachan/Downloads/雷姆/796372.jpg" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="selected.color.option.type" value="SQL_BAD_CHARACTER" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://114.55.32.141/svn/gas" />
+        <option value="https://114.55.32.141/svn/jsdc" />
+        <option value="https://114.55.32.141/gas" />
+        <option value="https://114.55.32.141/svn/WaterMeter" />
+        <option value="https://114.55.32.141/svn/rlwmm" />
+        <option value="https://114.55.32.141/svn/hmcs" />
+        <option value="https://114.55.32.141/svn/outside" />
+        <option value="https://114.55.32.141/svn/rtdemo" />
+        <option value="https://114.55.32.141/svn/runtuah" />
+        <option value="https://114.55.32.141/svn/rtah" />
+        <option value="https://114.55.32.141/svn/MotorApplication" />
+        <option value="https://114.55.32.141/svn/motor" />
+        <option value="https://114.55.32.141/svn/anhuan" />
+        <option value="https://114.55.32.141/svn/boot-backend" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://114.55.32.141/svn/gas" />
+        <option value="https://114.55.32.141/svn/jsdc" />
+        <option value="https://114.55.32.141/gas" />
+        <option value="https://114.55.32.141/svn/WaterMeter" />
+        <option value="https://114.55.32.141/svn/WatherMeter" />
+        <option value="https://114.55.32.141/svn/rlwmm" />
+        <option value="https://114.55.32.141/svn/outside" />
+        <option value="https://114.55.32.141/svn/hmcs" />
+        <option value="https://114.55.32.141/svn/rtdemo" />
+        <option value="https://114.55.32.141/rtdemo" />
+        <option value="https://114.55.32.141/svn/runtuah" />
+        <option value="http://114.55.32.141/svn/runtuah" />
+        <option value="https://114.55.32.141/svn/rtah" />
+        <option value="https://114.55.32.141/svn/MotorApplication" />
+        <option value="https://114.55.32.141/svn/motor" />
+        <option value="https://114.55.32.141/svn/anhuan" />
+        <option value="https://114.55.32.141/svn/boot-backend" />
+      </list>
+    </option>
+  </component>
+  <component name="com.a.a.i.a.a.J" enableSqlConsole="false" />
+</application>
