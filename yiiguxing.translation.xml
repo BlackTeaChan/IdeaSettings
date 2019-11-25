@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection reset by peer" />
       <item value="Receive" />
       <item value="Revice" />
       <item value="get Before Lable" />
@@ -32,8 +33,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
