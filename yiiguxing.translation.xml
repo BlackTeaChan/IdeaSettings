@@ -1,0 +1,15 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Channel Handler Context" />
+      <item value="init Command" />
+      <item value="Field can be converted to a local variable less... (⌘F1)  Inspection info: This inspection searches for redundant class fields that can be replaced with local variables. If all local usages of a field are preceded by assignments to that field, the field can be removed and its usages replaced with local variables" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
