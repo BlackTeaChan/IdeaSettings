@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" can be replaced with method reference less... (⌘F1)  Inspection info: Reports lambdas which can be replaced with method references. Use File | Settings | Editor | Code Style | Java | Code Generation settings to configure special method references. Lambda/method references syntax is not supported under Java 1.7 or earlier JVMs" />
       <item value="Channel Handler Context" />
       <item value="init Command" />
       <item value="Field can be converted to a local variable less... (⌘F1)  Inspection info: This inspection searches for redundant class fields that can be replaced with local variables. If all local usages of a field are preceded by assignments to that field, the field can be removed and its usages replaced with local variables" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
