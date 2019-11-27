@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation Exception" />
       <item value="gpg: Sorry, no terminal at all requested - can't get input" />
       <item value="gpg: cannot open '/dev/tty': Device not configured" />
       <item value="[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign (sign-artifacts) on project bttools-db: Exit code: 2 -&gt; [Help 1]" />
@@ -52,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
