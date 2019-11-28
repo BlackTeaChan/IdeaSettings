@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ignored" />
+      <item value="ignor" />
+      <item value="move to another changelist" />
+      <item value="create external" />
+      <item value="external" />
       <item value="Incorrect syntax near" />
       <item value="TEMPLETE" />
       <item value="query Doc" />
@@ -46,11 +51,6 @@
       <item value="buffer" />
       <item value="copied Buffer" />
       <item value="disconnected" />
-      <item value="connected" />
-      <item value="conneted" />
-      <item value="cenneted" />
-      <item value="destroy" />
-      <item value="worker Group" />
     </histories>
     <option name="languageScores">
       <map>
