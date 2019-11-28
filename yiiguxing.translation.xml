@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect syntax near" />
       <item value="TEMPLETE" />
       <item value="query Doc" />
       <item value="shot clear" />
@@ -50,7 +51,6 @@
       <item value="cenneted" />
       <item value="destroy" />
       <item value="worker Group" />
-      <item value="boss Group" />
     </histories>
     <option name="languageScores">
       <map>
