@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Missing Servlet Request Parameter Exception" />
       <item value="is Running" />
       <item value="销毁" />
       <item value="DEFAULT INTERVAL TIME" />
@@ -50,12 +51,11 @@
       <item value="start" />
       <item value="started" />
       <item value="sync" />
-      <item value="Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
