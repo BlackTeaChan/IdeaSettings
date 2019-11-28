@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shot clear" />
       <item value="Missing Servlet Request Parameter Exception" />
       <item value="is Running" />
       <item value="销毁" />
@@ -50,11 +51,10 @@
       <item value="boss Group" />
       <item value="start" />
       <item value="started" />
-      <item value="sync" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="49" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
