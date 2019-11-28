@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="销毁" />
+      <item value="DEFAULT INTERVAL TIME" />
+      <item value=" DEFAULT" />
+      <item value="间隔" />
       <item value="Msm Schedule" />
       <item value="Schedule" />
       <item value="synchronized" />
@@ -47,15 +51,11 @@
       <item value="sync" />
       <item value="Future" />
       <item value="Channel Future" />
-      <item value="TCP NODELAY" />
-      <item value="Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
-      <item value=" can be replaced with method reference less... (⌘F1)  Inspection info: Reports lambdas which can be replaced with method references. Use File | Settings | Editor | Code Style | Java | Code Generation settings to configure special method references. Lambda/method references syntax is not supported under Java 1.7 or earlier JVMs" />
-      <item value="Channel Handler Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
