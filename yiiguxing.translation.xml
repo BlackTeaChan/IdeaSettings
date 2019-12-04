@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disconnection" />
+      <item value="unconnection" />
+      <item value="连接" />
+      <item value="connected" />
       <item value="刷新" />
       <item value="塑形" />
       <item value="reflsh" />
@@ -47,15 +51,11 @@
       <item value="Server Bootstrap" />
       <item value="set Window Opaque" />
       <item value="is Displayable" />
-      <item value="The frame is displayable" />
-      <item value="is Undecorated" />
-      <item value="The frame is decorated" />
-      <item value="pack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="55" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
