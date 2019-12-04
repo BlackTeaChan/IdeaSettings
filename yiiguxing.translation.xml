@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分隔" />
+      <item value="分割" />
+      <item value="Calendar" />
+      <item value="result" />
+      <item value="get Week Year" />
+      <item value="SMART DATE TIME" />
       <item value="disconnection" />
       <item value="unconnection" />
       <item value="连接" />
@@ -45,17 +51,11 @@
       <item value="equals Ignore Case" />
       <item value="channel Class" />
       <item value="* * The {@link Class} which is used to create {@link Channel} instances from. * You either use this or {@link #channelFactory(io.netty.channel.ChannelFactory)} if your * {@link Channel} implementation has no no-args constructor. */" />
-      <item value="channel" />
-      <item value="group" />
-      <item value="Bootstrap" />
-      <item value="Server Bootstrap" />
-      <item value="set Window Opaque" />
-      <item value="is Displayable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
