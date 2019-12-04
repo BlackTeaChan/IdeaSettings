@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flatten" />
+      <item value="network" />
+      <item value="net" />
+      <item value="Constant" />
+      <item value="Constants" />
+      <item value="User Constants" />
       <item value="get Full Command" />
       <item value="BEFORE" />
       <item value="Reflsh" />
@@ -45,17 +51,11 @@
       <item value="FixedRecvByteBufAllocator" />
       <item value="Connection reset by peer" />
       <item value="Receive" />
-      <item value="Revice" />
-      <item value="get Before Lable" />
-      <item value="Before" />
-      <item value="Accessible" />
-      <item value="LineWrap" />
-      <item value="getLineWrap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="53" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
