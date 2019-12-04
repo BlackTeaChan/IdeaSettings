@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a string representation of the date." />
+      <item value="Allocates a &lt;code&gt;Date&lt;/code&gt; object and initializes it so that * it represents the date and time indicated by the string * &lt;code&gt;s&lt;/code&gt;, which is interpreted as if by the" />
       <item value="分隔" />
       <item value="分割" />
       <item value="Calendar" />
@@ -49,13 +51,11 @@
       <item value="[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign (sign-artifacts) on project bttools-db: Exit code: 2 -&gt; [Help 1]" />
       <item value="params can not be null" />
       <item value="equals Ignore Case" />
-      <item value="channel Class" />
-      <item value="* * The {@link Class} which is used to create {@link Channel} instances from. * You either use this or {@link #channelFactory(io.netty.channel.ChannelFactory)} if your * {@link Channel} implementation has no no-args constructor. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
