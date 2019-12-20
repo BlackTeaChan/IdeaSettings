@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean" />
+      <item value="Load Balanced" />
+      <item value="Producer" />
+      <item value="provide" />
+      <item value="EMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE. " />
+      <item value="Unregistering application PRODUCER with eureka with status DOWN" />
+      <item value="Unregistering" />
+      <item value="No URLs will be polled as dynamic configuration sources." />
+      <item value="Saw local status change event StatusChangeEvent [timestamp=1576820197313, current=DOWN, previous=UP]" />
       <item value="how to" />
       <item value="I'm forget" />
       <item value="root" />
@@ -42,20 +51,11 @@
       <item value="query Doc" />
       <item value="shot clear" />
       <item value="Missing Servlet Request Parameter Exception" />
-      <item value="is Running" />
-      <item value="销毁" />
-      <item value="DEFAULT INTERVAL TIME" />
-      <item value=" DEFAULT" />
-      <item value="间隔" />
-      <item value="Msm Schedule" />
-      <item value="Schedule" />
-      <item value="synchronized" />
-      <item value="Instantiation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
