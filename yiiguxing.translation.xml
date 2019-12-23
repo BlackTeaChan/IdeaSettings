@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolving eureka endpoints via configuration" />
       <item value="Consumer Controller" />
       <item value="Provide" />
       <item value="Producer" />
@@ -50,12 +51,11 @@
       <item value="create external" />
       <item value="external" />
       <item value="Incorrect syntax near" />
-      <item value="TEMPLETE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
