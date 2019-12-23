@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consumer Controller" />
+      <item value="Provide" />
+      <item value="Producer" />
       <item value="hosts" />
       <item value="Bean" />
       <item value="Load Balanced" />
-      <item value="Producer" />
       <item value="provide" />
       <item value="EMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE. " />
       <item value="Unregistering application PRODUCER with eureka with status DOWN" />
@@ -49,13 +51,11 @@
       <item value="external" />
       <item value="Incorrect syntax near" />
       <item value="TEMPLETE" />
-      <item value="query Doc" />
-      <item value="shot clear" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
