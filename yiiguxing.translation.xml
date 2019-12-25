@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manifest" />
+      <item value="mainfest" />
+      <item value="mainface" />
+      <item value="清单" />
+      <item value="mainfarce" />
+      <item value="operation" />
+      <item value="操作" />
+      <item value="optiater" />
+      <item value="opt" />
       <item value="撤销" />
       <item value="Sets or retrieves the group of cells in a table to which the object's information applies" />
       <item value="indefinite" />
@@ -42,20 +51,11 @@
       <item value="disconnection" />
       <item value="unconnection" />
       <item value="连接" />
-      <item value="connected" />
-      <item value="刷新" />
-      <item value="塑形" />
-      <item value="reflsh" />
-      <item value="Exception 'java.lang.Exception' is never thrown in the method less... (⌘F1)  Inspection info: Reports exceptions that are declared in a method's signature but never thrown by the method itself or its implementations/derivatives" />
-      <item value="flatten" />
-      <item value="network" />
-      <item value="net" />
-      <item value="Constant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
