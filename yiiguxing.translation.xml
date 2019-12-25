@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="type" />
+      <item value="visio" />
       <item value="Dockerfile detection &#9;&#9;&#9;You may setup Docker deployment run configuration for the following file(s):  &#9;&#9;&#9;gateway/gateway-web/src/main/docker/Dockerfile &#9;&#9;&#9;center/config/src/main/docker/Dockerfile &#9;&#9;&#9;services/producer/src/main/docker/Dockerfile &#9;&#9;&#9;auth/authorization-server/src/main/docker/Dockerfile &#9;&#9;&#9;center/eureka/src/main/docker/Dockerfile &#9;&#9;&#9;sysadmin/organization/src/main/docker/Dockerfile &#9;&#9;&#9;services/producer-jpa/src/main/docker/Dockerfile &#9;&#9;&#9;auth/authentication-server/src/main/docker/Dockerfile &#9;&#9;&#9;Disable this notification (" />
       <item value="Resolving eureka endpoints via configuration" />
       <item value="Consumer Controller" />
@@ -49,13 +51,11 @@
       <item value="ignored" />
       <item value="ignor" />
       <item value="move to another changelist" />
-      <item value="create external" />
-      <item value="external" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
