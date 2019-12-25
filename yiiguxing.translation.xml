@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indefinite" />
+      <item value="repeat Count" />
       <item value="translate" />
       <item value="scale" />
       <item value="rotate" />
@@ -49,13 +51,11 @@
       <item value="Constant" />
       <item value="Constants" />
       <item value="User Constants" />
-      <item value="get Full Command" />
-      <item value="BEFORE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="85" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
