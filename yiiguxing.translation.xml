@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets or retrieves the group of cells in a table to which the object's information applies" />
       <item value="indefinite" />
       <item value="repeat Count" />
       <item value="translate" />
@@ -50,12 +51,11 @@
       <item value="net" />
       <item value="Constant" />
       <item value="Constants" />
-      <item value="User Constants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="86" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
