@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="_make Common Select Handler" />
+      <item value="&quot;setHover&quot;, &quot;removeAllOverlays&quot;, &quot;setLabel&quot;, &quot;addClass&quot;, &quot;addOverlay&quot;, &quot;removeOverlay&quot;, &quot;removeOverlays&quot;, &quot;showOverlay&quot;, &quot;hideOverlay&quot;, &quot;showOverlays&quot;, &quot;hideOverlays&quot;, &quot;setPaintStyle&quot;, &quot;setHoverPaintStyle&quot;, &quot;setSuspendEvents&quot;, &quot;setParameter&quot;, &quot;setParameters&quot;, &quot;setVisible&quot;, &quot;repaint&quot;, &quot;addType&quot;, &quot;toggleType&quot;, &quot;removeType&quot;, &quot;removeClass&quot;, &quot;setType&quot;, &quot;bind&quot;, &quot;unbind&quot;" />
+      <item value="helpers for select/selectEndpoints" />
+      <item value="not public. but of course its exposed. how to change this." />
+      <item value="Deletes a Connection. * @method deleteConnection * @param connection Connection to delete * @param {Object} [params] Optional delete parameters * @param {Boolean} [params.doNotFireEvent=false] If true, a connection detached event will not be fired. Otherwise one will. * @param {Boolean} [params.force=false] If true, the connection will be deleted even if a beforeDetach interceptor tries to stop the deletion. * @returns {Boolean} True if the connection was deleted, false otherwise." />
+      <item value="check Condition" />
+      <item value="before Detach" />
+      <item value="is Detach Allowed" />
+      <item value="unregister Endpoint" />
+      <item value="source Id" />
+      <item value="st Types" />
+      <item value="animate" />
+      <item value="add Endpoints" />
+      <item value="add Endpoint" />
+      <item value="Remove the given element, including cleaning up all endpoints registered for it. * This is exposed in the public API but also used internally by jsPlumb when removing the * element associated with a connection drag." />
       <item value="transparent" />
       <item value="joinstyle" />
       <item value="round" />
@@ -36,26 +51,12 @@
       <item value="provide" />
       <item value="EMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE. " />
       <item value="Unregistering application PRODUCER with eureka with status DOWN" />
-      <item value="Unregistering" />
-      <item value="No URLs will be polled as dynamic configuration sources." />
-      <item value="Saw local status change event StatusChangeEvent [timestamp=1576820197313, current=DOWN, previous=UP]" />
-      <item value="how to" />
-      <item value="I'm forget" />
-      <item value="root" />
-      <item value="butter" />
-      <item value="Turns on or off automatic drag handling. In order to enable automatic * drag handling, this property should be set to {@code true}, and the * table's {@code TransferHandler} needs to be {@code non-null}. * The default value of the {@code dragEnabled} property is {@code false}. * &lt;p&gt; * The job of honoring this property, and recognizing a user drag gesture, * lies with the look and feel implementation, and in particular, the table's * {@code TableUI}. When automatic drag handling is enabled, most look and * feels (including those that subclass {@code BasicLookAndFeel}) begin a * drag and drop operation whenever the user presses the mouse button over * an item (in single selection mode) or a selection (in other selection * modes) and then moves the mouse a few pixels. Setting this property to * {@code true} can therefore have a subtle effect on how selections behave. * &lt;p&gt; * If a look and feel is used that ignores this property, you can still * begin a drag and drop operation by calling {@code exportAsDrag} on the * table's {@code TransferHandler}." />
-      <item value="a string representation of the date." />
-      <item value="Allocates a &lt;code&gt;Date&lt;/code&gt; object and initializes it so that * it represents the date and time indicated by the string * &lt;code&gt;s&lt;/code&gt;, which is interpreted as if by the" />
-      <item value="分隔" />
-      <item value="分割" />
-      <item value="Calendar" />
-      <item value="result" />
-      <item value="get Week Year" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
