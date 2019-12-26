@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reference" />
+      <item value="params" />
+      <item value="reference Params" />
       <item value="overlays" />
       <item value="_make Common Select Handler" />
       <item value="&quot;setHover&quot;, &quot;removeAllOverlays&quot;, &quot;setLabel&quot;, &quot;addClass&quot;, &quot;addOverlay&quot;, &quot;removeOverlay&quot;, &quot;removeOverlays&quot;, &quot;showOverlay&quot;, &quot;hideOverlay&quot;, &quot;showOverlays&quot;, &quot;hideOverlays&quot;, &quot;setPaintStyle&quot;, &quot;setHoverPaintStyle&quot;, &quot;setSuspendEvents&quot;, &quot;setParameter&quot;, &quot;setParameters&quot;, &quot;setVisible&quot;, &quot;repaint&quot;, &quot;addType&quot;, &quot;toggleType&quot;, &quot;removeType&quot;, &quot;removeClass&quot;, &quot;setType&quot;, &quot;bind&quot;, &quot;unbind&quot;" />
@@ -48,14 +51,11 @@
       <item value="Producer" />
       <item value="hosts" />
       <item value="Bean" />
-      <item value="Load Balanced" />
-      <item value="provide" />
-      <item value="EMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
