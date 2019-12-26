@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transparent" />
+      <item value="joinstyle" />
+      <item value="round" />
+      <item value="jnode-round" />
       <item value="manifest" />
       <item value="mainfest" />
       <item value="mainface" />
@@ -47,15 +51,11 @@
       <item value="Calendar" />
       <item value="result" />
       <item value="get Week Year" />
-      <item value="SMART DATE TIME" />
-      <item value="disconnection" />
-      <item value="unconnection" />
-      <item value="连接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
