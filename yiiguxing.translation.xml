@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Draggable" />
       <item value="ensure that, if the current container exists, it is a DOM element and not a selector. // if it does not exist and `candidate` is supplied, the offset parent of that element will be set as the Container. // this is used to do a better default behaviour for the case that the user has not set a container: // addEndpoint, makeSource, makeTarget and connect all call this method with the offsetParent of the // element in question (for connect it is the source element). So if no container is set, it is inferred // to be the offsetParent of the first element the user tries to connect. var" />
       <item value="exposed for other objects to use to get a unique id" />
       <item value="get some connections, specifying source/target/scope" />
@@ -50,11 +51,10 @@
       <item value="visio" />
       <item value="Dockerfile detection &#9;&#9;&#9;You may setup Docker deployment run configuration for the following file(s):  &#9;&#9;&#9;gateway/gateway-web/src/main/docker/Dockerfile &#9;&#9;&#9;center/config/src/main/docker/Dockerfile &#9;&#9;&#9;services/producer/src/main/docker/Dockerfile &#9;&#9;&#9;auth/authorization-server/src/main/docker/Dockerfile &#9;&#9;&#9;center/eureka/src/main/docker/Dockerfile &#9;&#9;&#9;sysadmin/organization/src/main/docker/Dockerfile &#9;&#9;&#9;services/producer-jpa/src/main/docker/Dockerfile &#9;&#9;&#9;auth/authentication-server/src/main/docker/Dockerfile &#9;&#9;&#9;Disable this notification (" />
       <item value="Resolving eureka endpoints via configuration" />
-      <item value="Consumer Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
+        <entry key="CHINESE" value="116" />
         <entry key="ENGLISH" value="116" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
