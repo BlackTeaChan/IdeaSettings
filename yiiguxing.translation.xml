@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thing" />
       <item value="reference" />
       <item value="params" />
       <item value="reference Params" />
@@ -50,12 +51,11 @@
       <item value="Provide" />
       <item value="Producer" />
       <item value="hosts" />
-      <item value="Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
