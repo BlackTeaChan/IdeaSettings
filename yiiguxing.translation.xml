@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cors" />
+      <item value="Cors Config" />
+      <item value="CorsConfig" />
+      <item value="2019-12-31 10:54:03.324 ERROR 45867 --- [nio-9090-exec-8] o.a.c.c.C.[.[.[/].[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: No primary or default constructor found for interface java.util.List] with root cause" />
       <item value="Required" />
       <item value="Request" />
       <item value="not present" />
@@ -47,15 +51,11 @@
       <item value="transparent" />
       <item value="joinstyle" />
       <item value="round" />
-      <item value="jnode-round" />
-      <item value="manifest" />
-      <item value="mainfest" />
-      <item value="mainface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="134" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
