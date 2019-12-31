@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Required" />
+      <item value="Request" />
+      <item value="not present" />
+      <item value="Required List parameter 'keys' is not present" />
+      <item value="java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
+      <item value="get Multiple" />
+      <item value="得到多个" />
+      <item value="gets" />
+      <item value="get" />
       <item value="complete" />
       <item value="headless" />
       <item value="生成" />
@@ -42,20 +51,11 @@
       <item value="manifest" />
       <item value="mainfest" />
       <item value="mainface" />
-      <item value="清单" />
-      <item value="mainfarce" />
-      <item value="operation" />
-      <item value="操作" />
-      <item value="optiater" />
-      <item value="opt" />
-      <item value="撤销" />
-      <item value="Sets or retrieves the group of cells in a table to which the object's information applies" />
-      <item value="indefinite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
