@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete" />
       <item value="headless" />
       <item value="生成" />
       <item value="greate" />
@@ -50,12 +51,11 @@
       <item value="撤销" />
       <item value="Sets or retrieves the group of cells in a table to which the object's information applies" />
       <item value="indefinite" />
-      <item value="repeat Count" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
