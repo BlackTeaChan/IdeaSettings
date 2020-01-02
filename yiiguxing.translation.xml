@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="round" />
       <item value="anchor" />
       <item value="anchors" />
       <item value="radix" />
@@ -50,12 +51,11 @@
       <item value="Deletes a Connection. * @method deleteConnection * @param connection Connection to delete * @param {Object} [params] Optional delete parameters * @param {Boolean} [params.doNotFireEvent=false] If true, a connection detached event will not be fired. Otherwise one will. * @param {Boolean} [params.force=false] If true, the connection will be deleted even if a beforeDetach interceptor tries to stop the deletion. * @returns {Boolean} True if the connection was deleted, false otherwise." />
       <item value="check Condition" />
       <item value="before Detach" />
-      <item value="is Detach Allowed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
