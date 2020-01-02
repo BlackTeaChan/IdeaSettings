@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anchor" />
       <item value="anchors" />
       <item value="radix" />
       <item value="js Plumb UI Component" />
@@ -50,12 +51,11 @@
       <item value="check Condition" />
       <item value="before Detach" />
       <item value="is Detach Allowed" />
-      <item value="source Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
