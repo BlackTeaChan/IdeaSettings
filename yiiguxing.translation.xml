@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dragg" />
+      <item value="dropp" />
+      <item value="droppable" />
+      <item value="draggable" />
       <item value="paint Style" />
       <item value="TODO probably a nicer return value if the connection was not made" />
       <item value="TODO" />
@@ -47,17 +51,14 @@
       <item value="greate" />
       <item value="detach Every Connection" />
       <item value="detach All Connections" />
-      <item value="detach" />
-      <item value="unregister Endpoint" />
-      <item value="delete Every Endpoint" />
-      <item value="js Plumb Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="160" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="MALAYALAM" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
       </map>
