@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TODO probably a nicer return value if the connection was not made" />
+      <item value="TODO" />
+      <item value="_prepare Connection Params" />
+      <item value="_ensure Container" />
+      <item value="probably a nicer return value if the connection was not made. _prepareConnectionParams" />
+      <item value="// TODO probably a nicer return value if the connection was not made. _prepareConnectionParams // will return null (and log something) if either endpoint was full. what would be nicer is to // create a dedicated 'error' object." />
+      <item value="prepare a final set of parameters to create connection with" />
+      <item value="reference Params" />
+      <item value="params" />
+      <item value="test for endpoint uuids to connect" />
+      <item value="* prepares a final params object that can be passed to _newConnection, taking into account defaults, events, etc." />
+      <item value="set Connection Being Dragged" />
       <item value="TODO figure out if we want components to clone paintStyle so as not to share it." />
       <item value="export Raw" />
       <item value="Dot" />
@@ -39,27 +51,15 @@
       <item value="delete Every Endpoint" />
       <item value="js Plumb Instance" />
       <item value="gets the size for the element, in an array : [ width, height ]." />
-      <item value="Draggable" />
-      <item value="ensure that, if the current container exists, it is a DOM element and not a selector. // if it does not exist and `candidate` is supplied, the offset parent of that element will be set as the Container. // this is used to do a better default behaviour for the case that the user has not set a container: // addEndpoint, makeSource, makeTarget and connect all call this method with the offsetParent of the // element in question (for connect it is the source element). So if no container is set, it is inferred // to be the offsetParent of the first element the user tries to connect. var" />
-      <item value="exposed for other objects to use to get a unique id" />
-      <item value="get some connections, specifying source/target/scope" />
-      <item value="Thing" />
-      <item value="reference" />
-      <item value="params" />
-      <item value="reference Params" />
-      <item value="overlays" />
-      <item value="_make Common Select Handler" />
-      <item value="&quot;setHover&quot;, &quot;removeAllOverlays&quot;, &quot;setLabel&quot;, &quot;addClass&quot;, &quot;addOverlay&quot;, &quot;removeOverlay&quot;, &quot;removeOverlays&quot;, &quot;showOverlay&quot;, &quot;hideOverlay&quot;, &quot;showOverlays&quot;, &quot;hideOverlays&quot;, &quot;setPaintStyle&quot;, &quot;setHoverPaintStyle&quot;, &quot;setSuspendEvents&quot;, &quot;setParameter&quot;, &quot;setParameters&quot;, &quot;setVisible&quot;, &quot;repaint&quot;, &quot;addType&quot;, &quot;toggleType&quot;, &quot;removeType&quot;, &quot;removeClass&quot;, &quot;setType&quot;, &quot;bind&quot;, &quot;unbind&quot;" />
-      <item value="helpers for select/selectEndpoints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
       </map>
     </option>
   </component>
