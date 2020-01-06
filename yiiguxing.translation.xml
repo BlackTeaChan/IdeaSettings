@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Paint" />
+      <item value="corner Radius" />
+      <item value="always Respect Stubs" />
+      <item value="outline" />
       <item value="锚点" />
       <item value="declared" />
       <item value="here match the current endpoint class; users can change it" />
@@ -47,15 +51,11 @@
       <item value="java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="get Multiple" />
       <item value="得到多个" />
-      <item value="gets" />
-      <item value="get" />
-      <item value="complete" />
-      <item value="headless" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="166" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
