@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="joinstyle" />
+      <item value="stroke" />
+      <item value="stroke Width" />
       <item value="Paint" />
       <item value="corner Radius" />
       <item value="always Respect Stubs" />
@@ -48,14 +51,11 @@
       <item value="Request" />
       <item value="not present" />
       <item value="Required List parameter 'keys' is not present" />
-      <item value="java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
-      <item value="get Multiple" />
-      <item value="得到多个" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
