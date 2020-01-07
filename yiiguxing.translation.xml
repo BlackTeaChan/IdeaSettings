@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resize" />
       <item value="indefinite" />
       <item value="repeat Count" />
       <item value="scale" />
@@ -50,12 +51,11 @@
       <item value="export Raw" />
       <item value="Dot" />
       <item value="Rectangle" />
-      <item value="round" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
