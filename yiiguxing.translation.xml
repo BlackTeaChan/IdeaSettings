@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add-person" />
       <item value="ready" />
       <item value="Resize" />
       <item value="indefinite" />
@@ -50,12 +51,11 @@
       <item value="set Connection Being Dragged" />
       <item value="TODO figure out if we want components to clone paintStyle so as not to share it." />
       <item value="export Raw" />
-      <item value="Dot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
