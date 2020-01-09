@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="适配器" />
+      <item value="Adapeter" />
+      <item value="_contextmenu" />
       <item value="drop" />
       <item value="droppable" />
       <item value="draggable" />
@@ -48,16 +51,13 @@
       <item value="here match the current endpoint class; users can change it" />
       <item value="connector" />
       <item value="dragg" />
-      <item value="dropp" />
-      <item value="paint Style" />
-      <item value="TODO probably a nicer return value if the connection was not made" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="1" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
