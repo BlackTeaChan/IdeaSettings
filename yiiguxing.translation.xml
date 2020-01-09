@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同样id" />
+      <item value="同样" />
+      <item value="before Id" />
+      <item value="id After" />
       <item value="适配器" />
       <item value="Adapeter" />
       <item value="_contextmenu" />
@@ -47,15 +51,11 @@
       <item value="always Respect Stubs" />
       <item value="outline" />
       <item value="锚点" />
-      <item value="declared" />
-      <item value="here match the current endpoint class; users can change it" />
-      <item value="connector" />
-      <item value="dragg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="1" />
