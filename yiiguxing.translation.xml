@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="License" />
+      <item value="licence" />
       <item value="Checks that jQuery selectors are used in an efficient way. It warns about duplicated selectors which could be cached and optionally about attribute and pseudo-selectors usa" />
       <item value="container" />
       <item value="open Contextmenu" />
@@ -49,13 +51,12 @@
       <item value="_prepare Connection Params" />
       <item value="_ensure Container" />
       <item value="probably a nicer return value if the connection was not made. _prepareConnectionParams" />
-      <item value="// TODO probably a nicer return value if the connection was not made. _prepareConnectionParams // will return null (and log something) if either endpoint was full. what would be nicer is to // create a dedicated 'error' object." />
-      <item value="prepare a final set of parameters to create connection with" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="ENGLISH" value="189" />
+        <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
