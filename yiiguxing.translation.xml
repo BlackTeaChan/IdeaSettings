@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returned expression type string is not assignable to type 配置Json字符串 less... (⌘F1)  Inspection info: Checks JavaScript called function parameters , return values , assigned expressions to be of correct type. The validation works in JavaScript, html or jsp file" />
       <item value="同样id" />
       <item value="同样" />
       <item value="before Id" />
@@ -50,11 +51,10 @@
       <item value="corner Radius" />
       <item value="always Respect Stubs" />
       <item value="outline" />
-      <item value="锚点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
+        <entry key="CHINESE" value="196" />
         <entry key="ENGLISH" value="196" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="2" />
