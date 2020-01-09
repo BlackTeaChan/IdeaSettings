@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ready" />
       <item value="Reports var declarations that are used instead of let or const. Both let and const are block-scoped and behave more strictly.  It helps to replace all var declarations with let or const declarations, depending on value semantics. Declarations might be moved to the top of the function or before the first usage of the variable to avoid Reference errors. Check Conservatively convert var with Fix all action option to prevent any changes in these complex cases when using Fix all action" />
       <item value="insdtead" />
       <item value="lvalue" />
@@ -15,7 +16,6 @@
       <item value="lambda" />
       <item value="_m Selected Component Type" />
       <item value="add-person" />
-      <item value="ready" />
       <item value="Resize" />
       <item value="indefinite" />
       <item value="repeat Count" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
