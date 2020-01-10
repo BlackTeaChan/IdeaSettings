@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JSON standard allows only one top-level value less... (⌘F1)  Inspection info: This inspection checks that JSON files conform to language specification (RFC-7159" />
       <item value="固定" />
       <item value="containment" />
       <item value="Comparison component.type == &quot;Dot&quot; may cause unexpected type coercion less... (⌘F1)  Inspection info: Reports usages of JavaScript equality operators which may cause unexpected type coercions. It is considered a good practice to use the type-safe equality operators === and !== instead of their regular counterparts == and !=. Depending on the option selected, this will either highlight: All usages of == and != operators. All usages except comparison with null. Some code styles allow using x == null as a replacement for x === null || x === undefined. Only suspicious expressions, such as: == or != comparisons to 0, '', null, true, false, or undefined." />
@@ -50,11 +51,10 @@
       <item value="foldback" />
       <item value="joinstyle" />
       <item value="stroke" />
-      <item value="stroke Width" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
+        <entry key="CHINESE" value="197" />
         <entry key="ENGLISH" value="197" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="2" />
