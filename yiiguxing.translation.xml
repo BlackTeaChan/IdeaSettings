@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="固定" />
+      <item value="containment" />
       <item value="Comparison component.type == &quot;Dot&quot; may cause unexpected type coercion less... (⌘F1)  Inspection info: Reports usages of JavaScript equality operators which may cause unexpected type coercions. It is considered a good practice to use the type-safe equality operators === and !== instead of their regular counterparts == and !=. Depending on the option selected, this will either highlight: All usages of == and != operators. All usages except comparison with null. Some code styles allow using x == null as a replacement for x === null || x === undefined. Only suspicious expressions, such as: == or != comparisons to 0, '', null, true, false, or undefined." />
       <item value="Object instantiation can be simplified less... (⌘F1)  Inspection info: Checks for improper usage of wrappers for JavaScript primitive types. Also, warning will be produced when property of primitive type is modified, as assigned value will be lost." />
       <item value="Returned expression type string is not assignable to type 配置Json字符串 less... (⌘F1)  Inspection info: Checks JavaScript called function parameters , return values , assigned expressions to be of correct type. The validation works in JavaScript, html or jsp file" />
@@ -49,13 +51,11 @@
       <item value="joinstyle" />
       <item value="stroke" />
       <item value="stroke Width" />
-      <item value="Paint" />
-      <item value="corner Radius" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="1" />
