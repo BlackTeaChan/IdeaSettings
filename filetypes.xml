@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="GasMapper" type="DTD" />
       <mapping pattern="啊是哒是哒收到" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
