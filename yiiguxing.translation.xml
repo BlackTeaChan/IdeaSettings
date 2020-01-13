@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="module" />
       <item value="multifunction label" />
       <item value="multifunction" />
       <item value="多功能标签" />
@@ -8,7 +9,6 @@
       <item value="多行标签" />
       <item value="复杂标签" />
       <item value="简单标签" />
-      <item value="module" />
       <item value="scope" />
       <item value="helper" />
       <item value="JSON standard allows only one top-level value less... (⌘F1)  Inspection info: This inspection checks that JSON files conform to language specification (RFC-7159" />
