@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multifunction label" />
+      <item value="multifunction" />
+      <item value="多功能标签" />
+      <item value="Mutil" />
+      <item value="多行标签" />
+      <item value="复杂标签" />
+      <item value="简单标签" />
       <item value="module" />
       <item value="scope" />
       <item value="helper" />
@@ -44,18 +51,12 @@
       <item value="viso Config" />
       <item value="global" />
       <item value="sharp" />
-      <item value="hash key" />
-      <item value="C#" />
-      <item value="octothorpe" />
-      <item value="#" />
-      <item value="clean" />
-      <item value="empty" />
-      <item value="stub" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="205" />
+        <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="1" />
