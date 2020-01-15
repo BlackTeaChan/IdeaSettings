@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fix this. do not just take out the timestamp. it runs a lot faster with the timestamp included." />
+      <item value="ix this. do not just take out the timestamp. it runs a lot faster with // the timestamp included." />
+      <item value="TODO this timestamp causes continuous anchors to not repaint properly" />
+      <item value="end makeSource/makeTarget" />
+      <item value="update Offset" />
       <item value="Plan B" />
       <item value="always Respect Stubs" />
       <item value="alwaysRespectStubs" />
@@ -46,16 +51,11 @@
       <item value="drop" />
       <item value="droppable" />
       <item value="draggable" />
-      <item value="ready" />
-      <item value="Reports var declarations that are used instead of let or const. Both let and const are block-scoped and behave more strictly.  It helps to replace all var declarations with let or const declarations, depending on value semantics. Declarations might be moved to the top of the function or before the first usage of the variable to avoid Reference errors. Check Conservatively convert var with Fix all action option to prevent any changes in these complex cases when using Fix all action" />
-      <item value="insdtead" />
-      <item value="lvalue" />
-      <item value="License" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="222" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="2" />
