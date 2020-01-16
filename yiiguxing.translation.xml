@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Data To All Connection" />
       <item value="Server Endpoint" />
       <item value="catalina" />
       <item value="El Caption" />
@@ -50,12 +51,11 @@
       <item value="同样id" />
       <item value="同样" />
       <item value="before Id" />
-      <item value="id After" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="2" />
