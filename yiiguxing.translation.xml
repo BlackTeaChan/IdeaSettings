@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content" />
       <item value="bingo" />
       <item value="get Qr Code Content" />
       <item value="灰色" />
@@ -50,7 +51,6 @@
       <item value="multifunction label" />
       <item value="multifunction" />
       <item value="多功能标签" />
-      <item value="Mutil" />
     </histories>
     <option name="languageScores">
       <map>
