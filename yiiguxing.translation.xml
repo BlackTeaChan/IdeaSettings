@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="灰色" />
       <item value="Launchpad" />
       <item value="stylesheet" />
       <item value="Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available at" />
@@ -50,12 +51,12 @@
       <item value="Mutil" />
       <item value="多行标签" />
       <item value="复杂标签" />
-      <item value="简单标签" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="2" />
