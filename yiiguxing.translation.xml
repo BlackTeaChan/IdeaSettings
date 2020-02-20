@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Qr Code Content" />
       <item value="灰色" />
       <item value="Launchpad" />
       <item value="stylesheet" />
@@ -50,7 +51,6 @@
       <item value="多功能标签" />
       <item value="Mutil" />
       <item value="多行标签" />
-      <item value="复杂标签" />
     </histories>
     <option name="languageScores">
       <map>
