@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please correct the file content" />
       <item value="topic Explain" />
       <item value="topic Content" />
       <item value="paper Name" />
@@ -50,11 +51,10 @@
       <item value="gap" />
       <item value="corner Radius" />
       <item value="fill" />
-      <item value="stroke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
+        <entry key="CHINESE" value="231" />
         <entry key="ENGLISH" value="234" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
