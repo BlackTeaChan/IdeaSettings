@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Special Inspection VO" />
+      <item value="Accident" />
       <item value="Please correct the file content" />
       <item value="topic Explain" />
       <item value="topic Content" />
@@ -49,13 +51,11 @@
       <item value="what thing" />
       <item value="attr" />
       <item value="gap" />
-      <item value="corner Radius" />
-      <item value="fill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="236" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
