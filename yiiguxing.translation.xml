@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="模板" />
+      <item value="temp" />
+      <item value="score" />
       <item value="Score" />
       <item value="结束考试" />
       <item value="end Exam" />
@@ -48,14 +51,11 @@
       <item value="linux" />
       <item value="unversioned" />
       <item value="fix this. do not just take out the timestamp. it runs a lot faster with the timestamp included." />
-      <item value="ix this. do not just take out the timestamp. it runs a lot faster with // the timestamp included." />
-      <item value="TODO this timestamp causes continuous anchors to not repaint properly" />
-      <item value="end makeSource/makeTarget" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="249" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
