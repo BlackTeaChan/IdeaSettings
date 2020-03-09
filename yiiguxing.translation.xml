@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Last" />
       <item value="Statistics" />
       <item value="screening" />
       <item value="统计" />
@@ -50,12 +51,11 @@
       <item value="catalina" />
       <item value="El Caption" />
       <item value="nginx" />
-      <item value="linux" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="256" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
