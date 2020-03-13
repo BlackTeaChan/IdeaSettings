@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instance" />
       <item value="before Function" />
       <item value="Concurrent Hash Map" />
       <item value="缩放" />
@@ -50,12 +51,11 @@
       <item value="open Listener" />
       <item value="listener" />
       <item value="lisentener" />
-      <item value="execute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="260" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
