@@ -15,7 +15,7 @@
     <mask>*Util.java</mask>
     <mask>*dao.java</mask>
     <mask>*.iml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
