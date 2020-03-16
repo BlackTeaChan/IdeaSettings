@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预览" />
       <item value="preview" />
       <item value="heartbeat" />
       <item value="stay" />
@@ -50,12 +51,11 @@
       <item value="Special Inspection VO" />
       <item value="Accident" />
       <item value="Please correct the file content" />
-      <item value="topic Explain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
