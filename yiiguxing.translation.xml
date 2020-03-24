@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Property Key" />
       <item value="codes" />
       <item value="produce" />
       <item value="series" />
@@ -50,12 +51,11 @@
       <item value="Concurrent Hash Map" />
       <item value="缩放" />
       <item value="hoot" />
-      <item value="zoom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
