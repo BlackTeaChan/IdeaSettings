@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time" />
+      <item value="timeset" />
+      <item value="outtime" />
+      <item value="timeout" />
       <item value="complete" />
       <item value="speed-info" />
       <item value="operation" />
@@ -47,15 +51,11 @@
       <item value="receive" />
       <item value="已连接" />
       <item value="on Connected" />
-      <item value="组态" />
-      <item value="js-configure" />
-      <item value="生成" />
-      <item value="debug Code Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
@@ -65,6 +65,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
