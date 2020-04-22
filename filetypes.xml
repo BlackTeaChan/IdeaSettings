@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern="GasMapper" type="DTD" />
       <mapping pattern=".jsdtscope" type="Markdown" />
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="啊是哒是哒收到" type="PLAIN_TEXT" />
       <mapping pattern="channel2_0" type="PLAIN_TEXT" />
-      <mapping ext="name" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="container" type="PLAIN_TEXT" />
-      <mapping ext="component" type="PLAIN_TEXT" />
+      <mapping pattern="啊是哒是哒收到" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="prefs" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="container" type="PLAIN_TEXT" />
+      <mapping ext="component" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="name" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
