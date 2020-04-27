@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUCCESS MESSAGE" />
+      <item value="MESSAGE FAIL" />
+      <item value="Response Info" />
+      <item value="migrate" />
       <item value="protected" />
       <item value="get Article" />
       <item value="origin" />
@@ -47,15 +51,11 @@
       <item value="conversion" />
       <item value="batch Insert" />
       <item value="delete Measurement Data" />
-      <item value="DEFAULT RETENTION POLICY" />
-      <item value="retention Policy" />
-      <item value="do Execute" />
-      <item value="is Actived" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
