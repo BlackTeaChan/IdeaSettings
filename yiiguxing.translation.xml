@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="association" />
       <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors" />
       <item value="10:58 上午 Lombok Requires Annotation Processing: Do you want to enable annotation processors? Enable" />
       <item value="SUCCESS MESSAGE" />
@@ -50,12 +51,11 @@
       <item value="query Simple" />
       <item value="query Multiple" />
       <item value="多个" />
-      <item value="conversion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="331" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
