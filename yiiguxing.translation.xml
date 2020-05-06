@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="since" />
       <item value="Web Listener" />
       <item value="interceptor" />
       <item value="Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'webMvcConfiguration' for bean class [com.ars.jy.interceptor.WebMvcConfiguration] conflicts with existing, non-compatible bean definition of same name and class [com.ars.common.interceptor.WebMvcConfiguration]" />
@@ -50,12 +51,11 @@
       <item value="codes" />
       <item value="produce" />
       <item value="series" />
-      <item value="batch Points" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
