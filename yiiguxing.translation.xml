@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsupported Operation Exception" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.ars.jyht.dao.ClassifyDao.countPage'. It's likely that neither a Result Type nor a Result Map was specified." />
       <item value="cout Page" />
       <item value="Parameters" />
@@ -50,12 +51,11 @@
       <item value="Caused by: io.lettuce.core.RedisCommandExecutionException: READONLY You can't write against a read only slave." />
       <item value="gas" />
       <item value="org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Null key for a Map not allowed in JSON (use a converting NullKeySerializer?); nested exception is com.fasterxml.jackson.databind.JsonMappingException: Null key for a Map not allowed in JSON (use a converting NullKeySerializer?) (through reference chain: com.zjars.mes.utils.AjaxJson[&quot;body&quot;]-&gt;java.util.LinkedHashMap[&quot;data&quot;]-&gt;java.util.HashMap[&quot;null&quot;])" />
-      <item value="org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'redisConnectionFactory': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="2" />
