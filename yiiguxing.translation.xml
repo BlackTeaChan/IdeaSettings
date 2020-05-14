@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VERIFICATION CODE RESEND INTERVAL TIME" />
+      <item value="VERIFICATION CODE RESEND TIME" />
+      <item value="VERIFICATION CODE VALID TIME" />
+      <item value="有效" />
       <item value="get Today Code" />
       <item value="Illegal Access Exception" />
       <item value="required" />
@@ -47,15 +51,11 @@
       <item value="implements" />
       <item value="Schedule" />
       <item value="Upper Camel Case" />
-      <item value="constants" />
-      <item value="constant" />
-      <item value="Project configurations files can be added to Git View Files Always Add Don't Ask Again" />
-      <item value="ACCELERATION OF GRAVITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
