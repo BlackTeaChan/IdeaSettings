@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="17:12:20 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 225 handleCommittedResponse - Cannot forward to error page for request [/news] as the response has already been committed. As a result, the response may have the wrong status code. If your application is running on WebSphere Application Server you may be able to resolve this problem by setting com.ibm.ws.webcontainer.invokeFlushAfterService to false" />
       <item value="set Max Inactive Interval" />
       <item value="manageusersession" />
       <item value="set Extension" />
@@ -50,12 +51,11 @@
       <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors" />
       <item value="10:58 上午 Lombok Requires Annotation Processing: Do you want to enable annotation processors? Enable" />
       <item value="SUCCESS MESSAGE" />
-      <item value="MESSAGE FAIL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
