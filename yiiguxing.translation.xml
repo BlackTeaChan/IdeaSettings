@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="17:08:28 WARN org.springframework.context.support.AbstractApplicationContext 557 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'classifyController': Unsatisfied dependency expressed through field 'menuService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'menuService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.ars.jy.service.MenuService] from ClassLoader [ParallelWebappClassLoader" />
+      <item value="17:05:54 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 225 handleCommittedResponse - Cannot forward to error page for request [/news/28] as the response has already been committed. As a result, the response may have the wrong status code. If your application is running on WebSphere Application Server you may be able to resolve this problem by setting com.ibm.ws.webcontainer.invokeFlushAfterService to false" />
       <item value="location" />
       <item value="fixed" />
       <item value="固定" />
@@ -49,13 +51,11 @@
       <item value="12:59:34 WARN org.springframework.context.support.AbstractApplicationContext 557 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'commonDao' defined in file [/Users/blackteachan/IdeaProjects/zptc-projects/common/target/classes/com/ars/common/dao/CommonDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'file [/Users/blackteachan/IdeaProjects/zptc-projects/common/target/classes/mapper/LoginMapper.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'file [/Users/blackteachan/IdeaProjects/zptc-projects/common/target/classes/mapper/LoginMapper.xml]'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.ars.entity.Button'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.ars.entity.Button" />
       <item value="Consider defining a bean of type 'com.ars.common.dao.LoginDao' in your configuration." />
       <item value="Invalid packaging for parent POM com.ars:common:1.0-SNAPSHOT, must be &quot;pom&quot; but is &quot;jar&quot; @ com.ars:common:1.0-SNAPSHOT" />
-      <item value="complete" />
-      <item value="association" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
