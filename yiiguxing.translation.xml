@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="landline" />
       <item value="UPDATE t_record SET `type` = '1' , `left_vision` = '1', `right_vision` = '1', `left_glasses_vision` = null, `right_glasses_vision` = null, `left_night_glasses_vision` = null , `right_night_glasses_vision` = null , `left_s_vision` = null , `right_s_vision` = null , `left_c_vision` = null , `right_c_vision` = null , `left_a_vision` = null , `right_a_vision` = null , `comment` = null , `is_myopia` = 0 , `is_myopia2` = 0 , `is_hyperopia` = 0 , `is_astigmatism` = 0 , `review` = '0' , `is_join` = '0' , `not_join_cause` = '123123' , `update_time` = now() WHERE `student_id` = '107615';" />
       <item value="Serializability of a class is enabled by the class implementing the * java.io.Serializable interface. Classes that do not implement this * interface will not have any of their state serialized or * deserialized. All subtypes of a serializable class are themselves * serializable. The serialization interface has no methods or fields * and serves only to identify the semantics of being serializable. &lt;p&gt; *" />
       <item value="render" />
@@ -50,12 +51,11 @@
       <item value="解析" />
       <item value="operation" />
       <item value="send Data To All Connection" />
-      <item value="Server Endpoint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="260" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />
