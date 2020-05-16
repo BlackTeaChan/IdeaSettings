@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="timeing" />
+      <item value="timing" />
+      <item value="计时" />
+      <item value="interval Time" />
       <item value="parameter" />
       <item value="viewed" />
       <item value="view" />
@@ -47,15 +51,11 @@
       <item value="Unsupported Operation Exception" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.ars.jyht.dao.ClassifyDao.countPage'. It's likely that neither a Result Type nor a Result Map was specified." />
       <item value="cout Page" />
-      <item value="Parameters" />
-      <item value="add Path Patterns" />
-      <item value="since" />
-      <item value="Web Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="380" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="386" />
+        <entry key="ENGLISH" value="387" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
