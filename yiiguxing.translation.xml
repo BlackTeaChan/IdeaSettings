@@ -1,74 +1,83 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parameter" />
+      <item value="viewed" />
+      <item value="view" />
+      <item value="HOME PAGE NEWS TOP LIMIT" />
+      <item value="09:38:17 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 190 forwardToErrorPage - Forwarding to error page from request [/news/1] due to exception [/WEB-INF/jsp/news/detail.jsp (行.: [236], 列: [8]) According to TLD or attribute directive in tag file, attribute [value] does not accept any expressions] org.apache.jasper.JasperException: /WEB-INF/jsp/news/detail.jsp (行.: [236], 列: [8]) According to TLD or attribute directive in tag file, attribute [value] does not accept any expressions" />
+      <item value="17:08:28 WARN org.springframework.context.support.AbstractApplicationContext 557 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'classifyController': Unsatisfied dependency expressed through field 'menuService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'menuService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.ars.jy.service.MenuService] from ClassLoader [ParallelWebappClassLoader" />
+      <item value="17:05:54 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 225 handleCommittedResponse - Cannot forward to error page for request [/news/28] as the response has already been committed. As a result, the response may have the wrong status code. If your application is running on WebSphere Application Server you may be able to resolve this problem by setting com.ibm.ws.webcontainer.invokeFlushAfterService to false" />
+      <item value="location" />
+      <item value="fixed" />
+      <item value="固定" />
+      <item value="17:12:20 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 225 handleCommittedResponse - Cannot forward to error page for request [/news] as the response has already been committed. As a result, the response may have the wrong status code. If your application is running on WebSphere Application Server you may be able to resolve this problem by setting com.ibm.ws.webcontainer.invokeFlushAfterService to false" />
+      <item value="set Max Inactive Interval" />
+      <item value="manageusersession" />
+      <item value="set Extension" />
+      <item value="request" />
+      <item value="local Path" />
+      <item value="suffix" />
+      <item value="Part" />
+      <item value="Request Part" />
+      <item value="RequestPart" />
       <item value="landline" />
-      <item value="UPDATE t_record SET `type` = '1' , `left_vision` = '1', `right_vision` = '1', `left_glasses_vision` = null, `right_glasses_vision` = null, `left_night_glasses_vision` = null , `right_night_glasses_vision` = null , `left_s_vision` = null , `right_s_vision` = null , `left_c_vision` = null , `right_c_vision` = null , `left_a_vision` = null , `right_a_vision` = null , `comment` = null , `is_myopia` = 0 , `is_myopia2` = 0 , `is_hyperopia` = 0 , `is_astigmatism` = 0 , `review` = '0' , `is_join` = '0' , `not_join_cause` = '123123' , `update_time` = now() WHERE `student_id` = '107615';" />
-      <item value="Serializability of a class is enabled by the class implementing the * java.io.Serializable interface. Classes that do not implement this * interface will not have any of their state serialized or * deserialized. All subtypes of a serializable class are themselves * serializable. The serialization interface has no methods or fields * and serves only to identify the semantics of being serializable. &lt;p&gt; *" />
-      <item value="render" />
-      <item value="get Last" />
-      <item value="Statistics" />
-      <item value="screening" />
-      <item value="统计" />
-      <item value="Statics" />
-      <item value="Transactional" />
-      <item value="ckeck Id Card Exists" />
-      <item value="ckeck Id Card Is Exists" />
-      <item value="检查身份证是否存在" />
-      <item value="ckeck Id Card Is Exist" />
-      <item value="存在" />
-      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'parmas' not found. Available parameters are [params, param1]" />
-      <item value="导入" />
-      <item value="import" />
-      <item value="put Record" />
-      <item value="Correct" />
-      <item value="READY" />
+      <item value="VERIFICATION CODE RESEND INTERVAL TIME" />
+      <item value="VERIFICATION CODE RESEND TIME" />
+      <item value="VERIFICATION CODE VALID TIME" />
+      <item value="有效" />
+      <item value="get Today Code" />
       <item value="Illegal Access Exception" />
-      <item value="Response Info" />
-      <item value="exam Service" />
-      <item value="Special Inspection VO" />
-      <item value="Accident" />
-      <item value="Please correct the file content" />
-      <item value="topic Explain" />
-      <item value="topic Content" />
-      <item value="paper Name" />
-      <item value="Exam Bank Dao" />
-      <item value="Training Wrong" />
-      <item value="companyname" />
-      <item value="healthy" />
-      <item value="灰色" />
-      <item value="content" />
-      <item value="bingo" />
-      <item value="get Qr Code Content" />
-      <item value="Launchpad" />
-      <item value="stylesheet" />
-      <item value="Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available at" />
-      <item value="open Listener" />
-      <item value="listener" />
-      <item value="lisentener" />
-      <item value="execute" />
-      <item value="comply" />
-      <item value="执行" />
-      <item value="解析" />
-      <item value="operation" />
-      <item value="send Data To All Connection" />
+      <item value="required" />
+      <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'commonService': Unsatisfied dependency expressed through field 'dao'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'commonDao' defined in URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/common-1.0-SNAPSHOT.jar!/com/ars/common/dao/CommonDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]'. Cause: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.ars.jy.dao.NewsDao.listPage. please check file [/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/NewsDao.xml] and URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]" />
+      <item value="Caused by: org.springframework.core.NestedIOException: Failed to parse mapping resource: 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]'. Cause: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.ars.jy.dao.NewsDao.listPage. please check file [/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/NewsDao.xml] and URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]" />
+      <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'commonDao' defined in URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/common-1.0-SNAPSHOT.jar!/com/ars/common/dao/CommonDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]'. Cause: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.ars.jy.dao.NewsDao.listPage. please check file [/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/NewsDao.xml] and URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/NewsDao.xml]" />
+      <item value="create Standard Context" />
+      <item value="13-May-2020 14:05:53.078 严重 [RMI TCP Connection(2)-127.0.0.1] org.apache.tomcat.util.modeler.BaseModelMBean.invoke Exception invoking method createStandardContext" />
+      <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'. Cause: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.ars.jy.dao.RegisterDao.saveCode. please check file [/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/RegisterDao.xml] and URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]" />
+      <item value="Caused by: org.springframework.core.NestedIOException: Failed to parse mapping resource: 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'. Cause: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.ars.jy.dao.RegisterDao.saveCode. please check file [/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/RegisterDao.xml] and URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]" />
+      <item value="Caused by: java.lang.IllegalArgumentException: Result Maps collection already contains value for com.ars.jy.dao.RegisterDao.VerificationCodeMap" />
+      <item value="Result Maps collection already contains value for com.ars.jy.dao.RegisterDao.JyVerificationCodeMap" />
+      <item value="new Code" />
+      <item value="message" />
+      <item value="mobile" />
+      <item value="验证码" />
+      <item value="async" />
+      <item value="map-underscore-to-camel-case" />
+      <item value="Unsupported Operation Exception" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.ars.jyht.dao.ClassifyDao.countPage'. It's likely that neither a Result Type nor a Result Map was specified." />
+      <item value="cout Page" />
+      <item value="Parameters" />
+      <item value="add Path Patterns" />
+      <item value="since" />
+      <item value="Web Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="382" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
-        <entry key="FRENCH" value="1" />
-        <entry key="DUTCH" value="2" />
+        <entry key="AFRIKAANS" value="2" />
+        <entry key="FRENCH" value="2" />
+        <entry key="DUTCH" value="3" />
+        <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
+        <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
