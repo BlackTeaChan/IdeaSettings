@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Running" />
+      <item value="水质" />
       <item value="alumnus" />
       <item value="common" />
       <item value="公共登录页" />
@@ -49,13 +51,11 @@
       <item value="create Standard Context" />
       <item value="13-May-2020 14:05:53.078 严重 [RMI TCP Connection(2)-127.0.0.1] org.apache.tomcat.util.modeler.BaseModelMBean.invoke Exception invoking method createStandardContext" />
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'. Cause: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.ars.jy.dao.RegisterDao.saveCode. please check file [/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/RegisterDao.xml] and URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]" />
-      <item value="Caused by: org.springframework.core.NestedIOException: Failed to parse mapping resource: 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'. Cause: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.ars.jy.dao.RegisterDao.saveCode. please check file [/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/RegisterDao.xml] and URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]" />
-      <item value="Caused by: java.lang.IllegalArgumentException: Result Maps collection already contains value for com.ars.jy.dao.RegisterDao.VerificationCodeMap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="396" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
