@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common" />
+      <item value="公共登录页" />
+      <item value="COMMON LOGIN" />
       <item value="Do you want to enable annotation processors" />
       <item value="Lombok Requires Annotation Processing" />
       <item value="9:05 上午 Lombok Requires Annotation Processing: Do you want to enable annotation processors? Enable" />
@@ -48,14 +51,11 @@
       <item value="Caused by: org.springframework.core.NestedIOException: Failed to parse mapping resource: 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]'. Cause: java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.ars.jy.dao.RegisterDao.saveCode. please check file [/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/RegisterDao.xml] and URL [jar:file:/Users/blackteachan/IdeaProjects/zptc-projects/jy/target/jy-0.0.1-SNAPSHOT/WEB-INF/lib/jy-0.0.1-SNAPSHOT.jar!/mapper/RegisterDao.xml]" />
       <item value="Caused by: java.lang.IllegalArgumentException: Result Maps collection already contains value for com.ars.jy.dao.RegisterDao.VerificationCodeMap" />
       <item value="Result Maps collection already contains value for com.ars.jy.dao.RegisterDao.JyVerificationCodeMap" />
-      <item value="new Code" />
-      <item value="message" />
-      <item value="mobile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="393" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
