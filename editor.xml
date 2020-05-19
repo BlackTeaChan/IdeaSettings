@@ -4,8 +4,7 @@
     <option name="JAVADOC_INFO_DELAY" value="0" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="FONT_SIZE" value="14" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
