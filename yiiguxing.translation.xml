@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BLACKLIST" />
       <item value="COMPANY BLACKLIST URL " />
       <item value="BLACKLIST URL COMPANY" />
       <item value="BLACKLIST URL COMPANY_" />
@@ -50,12 +51,11 @@
       <item value="VERIFICATION CODE RESEND TIME" />
       <item value="VERIFICATION CODE VALID TIME" />
       <item value="有效" />
-      <item value="get Today Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
