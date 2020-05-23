@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拷贝" />
+      <item value="复制" />
+      <item value="copy File Using File Streams" />
       <item value="exec" />
       <item value="Xss Spring Http Servlet Request Wrapper" />
       <item value="directory" />
@@ -48,14 +51,11 @@
       <item value="parameter" />
       <item value="viewed" />
       <item value="view" />
-      <item value="HOME PAGE NEWS TOP LIMIT" />
-      <item value="09:38:17 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 190 forwardToErrorPage - Forwarding to error page from request [/news/1] due to exception [/WEB-INF/jsp/news/detail.jsp (行.: [236], 列: [8]) According to TLD or attribute directive in tag file, attribute [value] does not accept any expressions] org.apache.jasper.JasperException: /WEB-INF/jsp/news/detail.jsp (行.: [236], 列: [8]) According to TLD or attribute directive in tag file, attribute [value] does not accept any expressions" />
-      <item value="17:08:28 WARN org.springframework.context.support.AbstractApplicationContext 557 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'classifyController': Unsatisfied dependency expressed through field 'menuService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'menuService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.ars.jy.service.MenuService] from ClassLoader [ParallelWebappClassLoader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
