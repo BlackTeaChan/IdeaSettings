@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deployment" />
+      <item value="education" />
       <item value="Required request body is missing" />
       <item value="No primary or default constructor found for class" />
       <item value="15:23:34 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver 197 logException - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: I/O error while reading input message; nested exception is java.io.IOException: Stream closed]" />
@@ -49,13 +51,11 @@
       <item value="reload Select Option" />
       <item value="springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.alibaba.druid.pool.DataSourceDisableException ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.alibaba.druid.pool.DataSourceDisableException at org.apache.ibatis.exceptions.ExceptionFactory.wrapException" />
       <item value="before" />
-      <item value="Illegal Argument Exception" />
-      <item value="generate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="453" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
