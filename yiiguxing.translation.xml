@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Internal Pic" />
+      <item value="internal" />
+      <item value="内部" />
+      <item value="Intranet" />
+      <item value="内网" />
       <item value="java.lang.IllegalArgumentException: Illegal base64 character 5b" />
       <item value="Illegal base64 character 3f" />
       <item value="API GET LOCAL SERVER PIC" />
@@ -46,16 +51,11 @@
       <item value="log Directory" />
       <item value="Executorservice" />
       <item value="Executor Service" />
-      <item value="'packaging' with value 'war' is invalid. Aggregator projects require 'pom' as packaging. @ line 17, column 13" />
-      <item value="拷贝" />
-      <item value="复制" />
-      <item value="copy File Using File Streams" />
-      <item value="exec" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="462" />
-        <entry key="ENGLISH" value="463" />
+        <entry key="CHINESE" value="465" />
+        <entry key="ENGLISH" value="466" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
