@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUCCESS CONTENT" />
+      <item value="COMPLETE SUCCESS CONTENT" />
       <item value="操作" />
       <item value="operation" />
       <item value="action" />
@@ -49,13 +51,11 @@
       <item value="Executorservice" />
       <item value="Executor Service" />
       <item value="'packaging' with value 'war' is invalid. Aggregator projects require 'pom' as packaging. @ line 17, column 13" />
-      <item value="拷贝" />
-      <item value="复制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="475" />
+        <entry key="ENGLISH" value="476" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
