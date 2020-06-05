@@ -4,7 +4,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="ajax" value="$.ajax({&#10;    url: &quot;$URL$&quot;,&#10;    type: &quot;$TYPE$&quot;,&#10;    data: {&#10;        $PARAMS$&#10;    },&#10;    dataType: &quot;json&quot;,&#10;    success: function(res){&#10;        console.log(&quot;success: &quot; + res);&#10;    },&#10;    error: function(res){&#10;        console.log(&quot;error: &quot; + res);&#10;    }&#10;});" description="ajax请求模板" toReformat="false" toShortenFQNames="true">
+  <template name="ajax" value="$.ajax({&#10;    url: &quot;$URL$&quot;,&#10;    type: &quot;$TYPE$&quot;,&#10;    data: {&#10;        $PARAMS$&#10;    },&#10;    dataType: &quot;json&quot;,&#10;    success: function(res){&#10;        console.log(&quot;success: &quot; + JSON.stringify(res));&#10;    },&#10;    error: function(res){&#10;        console.log(&quot;error: &quot; + JSON.stringify(res));&#10;    }&#10;});" description="ajax请求模板" toReformat="false" toShortenFQNames="true">
     <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
