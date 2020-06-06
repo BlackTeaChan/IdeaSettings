@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.apache.poi:poi-ooxml:jar -&gt; version 3.17 vs 4.1.2 @ line 130, column 15" />
+      <item value="[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.apache.poi:poi:jar -&gt; version 3.17 vs 4.1.2 @ line 125, column 15" />
+      <item value="[WARNING] Some problems were encountered while building the effective model for com.ars:jyht:war:0.0.1-SNAPSHOT" />
+      <item value="[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build." />
+      <item value="[WARNING] [WARNING] Some problems were encountered while building the effective model for com.ars:jyht:war:0.0.1-SNAPSHOT [WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.apache.poi:poi:jar -&gt; version 3.17 vs 4.1.2 @ line 125, column 15 [WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.apache.poi:poi-ooxml:jar -&gt; version 3.17 vs 4.1.2 @ line 130, column 15 [WARNING] [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build. [WARNING] [WARNING] For this reason, future Maven versions might no longer support building such malformed projects. [WARNING]" />
       <item value="性质" />
       <item value="type Str" />
       <item value="国有独资企业" />
@@ -46,16 +51,11 @@
       <item value="要求" />
       <item value="ability" />
       <item value="能力" />
-      <item value="deploy" />
-      <item value="org.springframework.boot.web.servlet.support.Error Page Filter" />
-      <item value="due to exception" />
-      <item value="Forwarding to error page from request" />
-      <item value="08:50:05 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 190 forwardToErrorPage - Forwarding to error page from request [/register/verificationCode] due to exception [kotlin.collections.ArraysKt.copyInto([B[BIII)[B] java.lang.NoSuchMethodError: kotlin.collections.ArraysKt.copyInto([B[BIII)[B" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
