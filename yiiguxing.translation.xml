@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rollback For" />
       <item value="REVELATION" />
       <item value="REVELATION TEMPLATE FILE PATH" />
       <item value="select jfc.state, jfc.fair_id, jfc.company_id, jbc.name from jy_fair_company jfc, jy_c_demand jcd, jy_b_company jbc where jfc.fair_id = 21 and jfc.state = 2 and jcd.fair_id = jfc.fair_id and jfc.company_id = jcd.company_id and jfc.company_id = jbc.id" />
@@ -50,12 +51,11 @@
       <item value="transfer" />
       <item value="转学" />
       <item value="out" />
-      <item value="rollout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="482" />
-        <entry key="ENGLISH" value="483" />
+        <entry key="CHINESE" value="483" />
+        <entry key="ENGLISH" value="484" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
