@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="营业执照" />
       <item value="已经编码" />
       <item value="[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.apache.poi:poi-ooxml:jar -&gt; version 3.17 vs 4.1.2 @ line 130, column 15" />
       <item value="[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.apache.poi:poi:jar -&gt; version 3.17 vs 4.1.2 @ line 125, column 15" />
@@ -50,7 +51,6 @@
       <item value="注释" />
       <item value="comment" />
       <item value="要求" />
-      <item value="ability" />
     </histories>
     <option name="languageScores">
       <map>
