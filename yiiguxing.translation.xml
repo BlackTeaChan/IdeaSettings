@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="echarts" />
+      <item value="statistic" />
+      <item value="statistics" />
       <item value="terget Index" />
       <item value="flush" />
       <item value="SUBJECT ITEM TEMPLATE" />
@@ -10,7 +13,6 @@
       <item value="Statistics" />
       <item value="Statistics Controller" />
       <item value="统计图表" />
-      <item value="statistics" />
       <item value="统计" />
       <item value="tips" />
       <item value="营业执照" />
@@ -49,8 +51,6 @@
       <item value="education" />
       <item value="Required request body is missing" />
       <item value="No primary or default constructor found for class" />
-      <item value="15:23:34 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver 197 logException - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: I/O error while reading input message; nested exception is java.io.IOException: Stream closed]" />
-      <item value="15:03:31 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 190 forwardToErrorPage - Forwarding to error page from request [/company/addFairCompany] due to exception [No primary or default constructor found for interface java.util.List] java.lang.IllegalStateException: No primary or default constructor found for interface java.util.List at org.springframework.web.method.annotation.ModelAttributeMethodProcessor.createAttribute(ModelAttributeMethodProcessor.java:219) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.mvc.method.annotation.ServletModelAttributeMethodProcessor.createAttribute(ServletModelAttributeMethodProcessor.java:84) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.method.annotation.ModelAttributeMethodProcessor.resolveArgument(ModelAttributeMethodProcessor.java:139) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:126) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:166) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE] at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
