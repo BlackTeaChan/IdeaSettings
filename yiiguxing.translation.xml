@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="年级" />
+      <item value="班级" />
+      <item value="get Grade" />
       <item value="get Clazz" />
       <item value="async" />
       <item value="近视率" />
       <item value="hide Load" />
       <item value="show Load" />
-      <item value="年级" />
       <item value="echarts" />
       <item value="statistic" />
       <item value="statistics" />
@@ -49,13 +51,11 @@
       <item value="目录" />
       <item value="file Target Direct" />
       <item value="1" />
-      <item value="anim-fade-in" />
-      <item value="淡入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
-        <entry key="ENGLISH" value="505" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
