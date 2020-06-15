@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Column 'zptc_stu_develop.dbo.xs_student.xm' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause. " />
       <item value="toggle" />
       <item value="print Stack Trace" />
       <item value="muic" />
@@ -50,11 +51,10 @@
       <item value="导出" />
       <item value="revelation" />
       <item value="启示" />
-      <item value="Expression dwdz is undefined on line 3, column 8177 in zpqs.xml." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="514" />
+        <entry key="CHINESE" value="515" />
         <entry key="ENGLISH" value="515" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
