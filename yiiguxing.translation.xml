@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remark" />
       <item value="Column 'zptc_stu_develop.dbo.xs_student.xm' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause. " />
       <item value="toggle" />
       <item value="print Stack Trace" />
@@ -50,7 +51,6 @@
       <item value="select jfc.state, jfc.fair_id, jfc.company_id, jbc.name from jy_fair_company jfc, jy_c_demand jcd, jy_b_company jbc where jfc.fair_id = 21 and jfc.state = 2 and jcd.fair_id = jfc.fair_id and jfc.company_id = jcd.company_id and jfc.company_id = jbc.id" />
       <item value="导出" />
       <item value="revelation" />
-      <item value="启示" />
     </histories>
     <option name="languageScores">
       <map>
