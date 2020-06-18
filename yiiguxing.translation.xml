@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find" />
       <item value="questionnaire" />
       <item value="interview" />
       <item value="undo" />
@@ -50,12 +51,11 @@
       <item value="性质" />
       <item value="type Str" />
       <item value="国有独资企业" />
-      <item value="rollback For" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
