@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delivery Resume Total" />
       <item value="javadoc" />
       <item value="Grade" />
       <item value="list Page Grade" />
@@ -50,12 +51,11 @@
       <item value="async" />
       <item value="近视率" />
       <item value="hide Load" />
-      <item value="show Load" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="538" />
+        <entry key="ENGLISH" value="539" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
