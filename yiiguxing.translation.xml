@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="审核" />
+      <item value="招募" />
       <item value="招聘" />
+      <item value="审核" />
       <item value="get Resume Company List" />
       <item value="Delivery" />
       <item value="投递列表" />
@@ -50,7 +51,6 @@
       <item value="before Name" />
       <item value="after Name" />
       <item value="name After" />
-      <item value="sheet" />
     </histories>
     <option name="languageScores">
       <map>
