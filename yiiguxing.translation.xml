@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calmute" />
       <item value="Skill Manage Service" />
       <item value="update Internship" />
       <item value="update Interview" />
@@ -50,12 +51,11 @@
       <item value="撤销" />
       <item value="撤回" />
       <item value="remark" />
-      <item value="Column 'zptc_stu_develop.dbo.xs_student.xm' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="551" />
+        <entry key="ENGLISH" value="552" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
