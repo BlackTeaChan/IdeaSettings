@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="object" />
+      <item value="对象" />
+      <item value="union" />
+      <item value="association" />
+      <item value="Association" />
+      <item value="关联表" />
       <item value="relate" />
       <item value="relat" />
       <item value="related" />
@@ -45,17 +51,11 @@
       <item value="Grade" />
       <item value="list Page Grade" />
       <item value="Institute" />
-      <item value="list Page Major" />
-      <item value="list Page Institute" />
-      <item value="delivery Resume Num" />
-      <item value="student Success" />
-      <item value="up Resume Num Rate" />
-      <item value="total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="564" />
+        <entry key="ENGLISH" value="564" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
