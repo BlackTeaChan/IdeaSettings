@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lambda" />
       <item value="content" />
       <item value="select-produce" />
       <item value="carry Out Rate Total" />
@@ -50,11 +51,10 @@
       <item value="commas" />
       <item value="comma" />
       <item value="移除逗号" />
-      <item value="remove Commans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="582" />
+        <entry key="CHINESE" value="583" />
         <entry key="ENGLISH" value="583" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
