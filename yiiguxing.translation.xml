@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select-produce" />
       <item value="carry Out Rate Total" />
       <item value="get By Entity" />
       <item value="COMPLETED" />
@@ -50,12 +51,11 @@
       <item value="移除逗号" />
       <item value="remove Commans" />
       <item value="separator" />
-      <item value="institute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="580" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="581" />
+        <entry key="ENGLISH" value="582" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
