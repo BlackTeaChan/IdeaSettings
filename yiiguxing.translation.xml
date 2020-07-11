@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="annotations" />
       <item value="Lambda" />
       <item value="content" />
       <item value="select-produce" />
@@ -50,7 +51,6 @@
       <item value="bind" />
       <item value="commas" />
       <item value="comma" />
-      <item value="移除逗号" />
     </histories>
     <option name="languageScores">
       <map>
