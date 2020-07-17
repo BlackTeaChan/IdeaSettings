@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="activiti" />
+      <item value="safeproduce" />
       <item value="bit" />
       <item value="byte" />
       <item value="shoping" />
@@ -49,8 +51,6 @@
       <item value="subject" />
       <item value="analysis-subject" />
       <item value="crossanalysis" />
-      <item value="交叉分析" />
-      <item value="jcfx" />
     </histories>
     <option name="languageScores">
       <map>
