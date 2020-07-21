@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decimal" />
+      <item value="deci" />
+      <item value="小数" />
       <item value="成绩" />
       <item value="分数" />
       <item value="croe" />
@@ -48,14 +51,11 @@
       <item value="carry Out Rate Total" />
       <item value="get By Entity" />
       <item value="COMPLETED" />
-      <item value="已完成" />
-      <item value="EXSIT" />
-      <item value="存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="613" />
+        <entry key="CHINESE" value="613" />
+        <entry key="ENGLISH" value="614" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
@@ -63,7 +63,7 @@
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="TELUGU" value="1" />
