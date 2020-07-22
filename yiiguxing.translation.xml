@@ -1,7 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FORBIDDEN" />
+      <item value="UNAUTHORIZED" />
+      <item value="Response Status" />
       <item value="INTERNAL SERVER ERROR" />
+      <item value="exception" />
+      <item value="login Exception" />
+      <item value="bad Request Exception" />
+      <item value="Illegal Argument Exception" />
       <item value="Uncategorized SQL Exception" />
       <item value="shell" />
       <item value="go no go" />
@@ -44,18 +51,11 @@
       <item value="compute" />
       <item value="this.scope = params.scope; // scope may have been passed in to the connect call. if it wasn't, we will pull it from the source endpoint, after having initialised the endpoints." />
       <item value="in" />
-      <item value="// listen to mouseover and mouseout events passed from the container delegate." />
-      <item value="editor Params" />
-      <item value="SVG utility methods" />
-      <item value="use strict" />
-      <item value="vml Attribute Map" />
-      <item value="TODO vml endpoint adds class to VML at constructor time. but the addClass method adds VML" />
-      <item value="create path from segments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="626" />
+        <entry key="ENGLISH" value="627" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
