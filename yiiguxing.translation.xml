@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether images should be inverted for dark terminal themes" />
+      <item value="Left hand image margin in chars" />
+      <item value="Height of the banner image in chars (default based on image height" />
+      <item value="Width of the banner image in chars" />
+      <item value="Banner image file location (jpg or png can also be used)." />
+      <item value="Banner text resource location" />
+      <item value="Banner file encoding" />
+      <item value="The following profiles are active" />
+      <item value="BRIGHT CYAN" />
+      <item value="MAGENTA" />
       <item value="admin Logger" />
       <item value="完成" />
       <item value="complete" />
@@ -41,21 +51,11 @@
       <item value="byte" />
       <item value="shoping" />
       <item value="Caused by: com.microsoft.sqlserver.jdbc.SQLServerException: The TCP/IP connection to the host 127.0.0.1, port 1433 has failed. Error: &quot;Connection refused. Verify the connection properties. Make sure that an instance of SQL Server is running on the host and accepting TCP/IP connections at the port. Make sure that TCP connections to the port are not blocked by a firewall.&quot;." />
-      <item value="gap" />
-      <item value="corner Radius" />
-      <item value="always Respect Stubs" />
-      <item value="stub" />
-      <item value="connectior" />
-      <item value="// this checks for an 'offset' property in the gradient, and in the absence of it, assumes" />
-      <item value="// first clear out any existing gradient" />
-      <item value="_update Gradient" />
-      <item value="_clear Gradient" />
-      <item value="make sure we clear any existing gradient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="632" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="641" />
+        <entry key="ENGLISH" value="642" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
