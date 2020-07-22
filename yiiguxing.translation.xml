@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transactional" />
       <item value="goods" />
       <item value="FORBIDDEN" />
       <item value="UNAUTHORIZED" />
@@ -50,12 +51,11 @@
       <item value="* @param {Number} [params.stroke-width] Line width to use when stroking the arrow. defaults to 1, but only used if stroke is not null." />
       <item value="* @param {Number} [params.foldback] Distance (as a decimal from 0 to 1 inclusive) along the length of the arrow marking the point the tail points should fold back to. defaults to 0.623." />
       <item value="compute" />
-      <item value="this.scope = params.scope; // scope may have been passed in to the connect call. if it wasn't, we will pull it from the source endpoint, after having initialised the endpoints." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="628" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="629" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
