@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="完成" />
+      <item value="complete" />
       <item value="日志" />
       <item value="logback" />
       <item value="Transactional" />
@@ -49,13 +51,11 @@
       <item value="_clear Gradient" />
       <item value="make sure we clear any existing gradient" />
       <item value="in SVG there is a stroke-dasharray attribute we can set, and its syntax looks like // the syntax in VML but is actually kind of nasty: values are given in the pixel // coordinate space, whereas in VML they are multiples of the width of the stroked // line, which makes a lot more sense. for that reason, jsPlumb is supporting both // the native svg 'stroke-dasharray' attribute, and also the 'dashstyle' concept from // VML, which will be the preferred method. the code below this converts a dashstyle // attribute given in terms of stroke width into a pixel representation, by using the // stroke's lineWidth." />
-      <item value="point Along Path From" />
-      <item value="* @param {Number} [params.stroke-width] Line width to use when stroking the arrow. defaults to 1, but only used if stroke is not null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="631" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
