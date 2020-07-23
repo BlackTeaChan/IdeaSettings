@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assert" />
       <item value="that" />
       <item value="assert" />
       <item value="BAD REQUEST" />
@@ -50,12 +51,11 @@
       <item value="Raa Dangerous" />
       <item value="activiti" />
       <item value="safeproduce" />
-      <item value="bit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
