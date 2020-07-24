@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公式" />
+      <item value="Channel Handler Context" />
+      <item value="Command Line Runner" />
       <item value="智慧管网信息化平台" />
       <item value="Pipe network drainage system" />
       <item value="管网排水系统" />
@@ -48,14 +51,11 @@
       <item value="分数" />
       <item value="croe" />
       <item value="collection" />
-      <item value="security conference plan" />
-      <item value="b_security_conference_plan" />
-      <item value="Caused by: org.apache.ibatis.type.TypeException: Could not set parameters for mapping: ParameterMapping{property='zrjs', mode=IN, javaType=class java.lang.Object, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter #3 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter #3 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: com.microsoft.sqlserver.jdbc.SQLServerException: The index 3 is out of range." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="649" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="CHINESE" value="652" />
+        <entry key="ENGLISH" value="653" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
