@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="广场" />
       <item value="公式" />
       <item value="Channel Handler Context" />
       <item value="Command Line Runner" />
@@ -50,7 +51,6 @@
       <item value="成绩" />
       <item value="分数" />
       <item value="croe" />
-      <item value="collection" />
     </histories>
     <option name="languageScores">
       <map>
