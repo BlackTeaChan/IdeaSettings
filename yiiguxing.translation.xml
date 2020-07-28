@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="差值" />
+      <item value="boundingSphere" />
+      <item value="geometry" />
+      <item value="animate" />
       <item value="light" />
       <item value="Hemisphere Light" />
       <item value="Perspective Camera" />
@@ -47,15 +51,11 @@
       <item value="exception" />
       <item value="login Exception" />
       <item value="bad Request Exception" />
-      <item value="Uncategorized SQL Exception" />
-      <item value="shell" />
-      <item value="go no go" />
-      <item value="Big Decimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="663" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="665" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
@@ -64,7 +64,7 @@
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="TELUGU" value="1" />
