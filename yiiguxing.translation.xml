@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Produce Process Service Impl" />
+      <item value="depot Process" />
       <item value="traverse" />
       <item value="mouseover" />
       <item value="look At" />
@@ -49,13 +51,11 @@
       <item value="BRIGHT CYAN" />
       <item value="MAGENTA" />
       <item value="admin Logger" />
-      <item value="完成" />
-      <item value="complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="675" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
