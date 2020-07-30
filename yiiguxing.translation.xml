@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Straight" />
+      <item value="Arc" />
+      <item value="Bezier" />
       <item value="cancel" />
       <item value="Unsupported Operation Exception" />
       <item value="_buttons Down" />
@@ -48,14 +51,11 @@
       <item value="Left hand image margin in chars" />
       <item value="Height of the banner image in chars (default based on image height" />
       <item value="Width of the banner image in chars" />
-      <item value="Banner image file location (jpg or png can also be used)." />
-      <item value="Banner text resource location" />
-      <item value="Banner file encoding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="677" />
-        <entry key="ENGLISH" value="678" />
+        <entry key="CHINESE" value="681" />
+        <entry key="ENGLISH" value="682" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
