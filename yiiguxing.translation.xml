@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2020-07-31 15:17:30,827 [main] INFO o.s.w.s.server.standard.ServerEndpointExporter -[ServerEndpointExporter.java:153]- Registering @ServerEndpoint class: class com.zw.admin.server.server.WebSocketServer" />
       <item value="normal" />
       <item value="default" />
       <item value="Comma expression " />
@@ -50,12 +51,11 @@
       <item value="assert" />
       <item value="BAD REQUEST" />
       <item value="Illegal Argument Exception" />
-      <item value="Whether images should be inverted for dark terminal themes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="685" />
+        <entry key="ENGLISH" value="686" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
