@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accidentperson Service" />
+      <item value="监控" />
+      <item value="实时监控" />
+      <item value="review" />
       <item value="resault" />
       <item value="Variable 'id' is already defined in the scope" />
       <item value="2020-07-31 15:17:30,827 [main] INFO o.s.w.s.server.standard.ServerEndpointExporter -[ServerEndpointExporter.java:153]- Registering @ServerEndpoint class: class com.zw.admin.server.server.WebSocketServer" />
@@ -47,15 +51,11 @@
       <item value="智慧管网信息化平台" />
       <item value="Pipe network drainage system" />
       <item value="管网排水系统" />
-      <item value="管网排水" />
-      <item value="Assert" />
-      <item value="that" />
-      <item value="assert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="686" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="CHINESE" value="689" />
+        <entry key="ENGLISH" value="690" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
