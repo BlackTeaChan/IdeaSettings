@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="t Alarm Facilities" />
+      <item value="t Alarm Facility" />
       <item value="dialog-tank" />
       <item value="tank" />
       <item value="罐" />
@@ -49,13 +51,11 @@
       <item value="Scene" />
       <item value="### Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'delete) values('1', '1', '1', '11', '1', 1, 1)' at line 1" />
       <item value="LOCKED" />
-      <item value="VALID" />
-      <item value="DISABLED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="692" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="CHINESE" value="694" />
+        <entry key="ENGLISH" value="695" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
