@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adding welcome page: class path resource" />
       <item value="admin Logger" />
       <item value="Realm" />
       <item value="My Shiro Realm" />
@@ -50,7 +51,6 @@
       <item value="2020-07-31 15:17:30,827 [main] INFO o.s.w.s.server.standard.ServerEndpointExporter -[ServerEndpointExporter.java:153]- Registering @ServerEndpoint class: class com.zw.admin.server.server.WebSocketServer" />
       <item value="normal" />
       <item value="default" />
-      <item value="Comma expression " />
     </histories>
     <option name="languageScores">
       <map>
