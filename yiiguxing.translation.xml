@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pre" />
       <item value="Adding welcome page: class path resource" />
       <item value="admin Logger" />
       <item value="Realm" />
@@ -50,7 +51,6 @@
       <item value="Variable 'id' is already defined in the scope" />
       <item value="2020-07-31 15:17:30,827 [main] INFO o.s.w.s.server.standard.ServerEndpointExporter -[ServerEndpointExporter.java:153]- Registering @ServerEndpoint class: class com.zw.admin.server.server.WebSocketServer" />
       <item value="normal" />
-      <item value="default" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,7 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="JAPANESE" value="4" />
+        <entry key="SLOVAK" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="3" />
