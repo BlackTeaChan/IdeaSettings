@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="我拿到了" />
+      <item value="我的到了" />
+      <item value="我抓到了" />
+      <item value="i git it" />
       <item value="finally" />
       <item value="gist" />
       <item value="下午" />
@@ -47,15 +51,11 @@
       <item value="dialog-tank" />
       <item value="tank" />
       <item value="罐" />
-      <item value="罐子" />
-      <item value="灌子" />
-      <item value="灌" />
-      <item value="tank farm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="710" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="ENGLISH" value="711" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
