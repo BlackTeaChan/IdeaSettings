@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全屏" />
+      <item value="全景" />
+      <item value="全面" />
       <item value="展示" />
       <item value="chemical" />
       <item value="我拿到了" />
@@ -48,9 +51,6 @@
       <item value="Material" />
       <item value="材质" />
       <item value="async" />
-      <item value="t Alarm Facilities" />
-      <item value="t Alarm Facility" />
-      <item value="dialog-tank" />
     </histories>
     <option name="languageScores">
       <map>
