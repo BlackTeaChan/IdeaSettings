@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation of init method failed" />
+      <item value="Invocation of init method failed; nested exception is java.lang.NullPointerException" />
+      <item value="An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception. io.netty.channel.ChannelPipelineException: com.zjars.zhgw.socket.SocketServerHandler is not a @Sharable handler, so can't be added or removed multiple times." />
+      <item value="2020-08-10 15:52:58,265 [nioEventLoopGroup-4-1] WARN io.netty.channel.DefaultChannelPipeline -[Slf4JLogger.java:151]- An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception." />
       <item value="does" />
       <item value="Netty 未启动" />
       <item value="Netty 围启动" />
@@ -47,15 +51,11 @@
       <item value="Simpleness" />
       <item value="Simple" />
       <item value="query" />
-      <item value="移动" />
-      <item value="pre" />
-      <item value="Adding welcome page: class path resource" />
-      <item value="admin Logger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="736" />
-        <entry key="ENGLISH" value="736" />
+        <entry key="CHINESE" value="740" />
+        <entry key="ENGLISH" value="741" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
