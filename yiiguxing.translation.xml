@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pipeline" />
       <item value="oillevel" />
       <item value="Invocation of init method failed" />
       <item value="Invocation of init method failed; nested exception is java.lang.NullPointerException" />
@@ -50,12 +51,11 @@
       <item value="下午" />
       <item value="sample" />
       <item value="Simpleness" />
-      <item value="Simple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="741" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="742" />
+        <entry key="ENGLISH" value="743" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
