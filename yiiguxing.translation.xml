@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content" />
       <item value="Exception in thread &quot;pool-1-thread-18&quot; Exception in thread &quot;pool-1-thread-286&quot; org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
       <item value="Control" />
       <item value="since" />
@@ -50,11 +51,10 @@
       <item value="全面" />
       <item value="展示" />
       <item value="chemical" />
-      <item value="我拿到了" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="751" />
+        <entry key="CHINESE" value="752" />
         <entry key="ENGLISH" value="752" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="BASQUE" value="1" />
