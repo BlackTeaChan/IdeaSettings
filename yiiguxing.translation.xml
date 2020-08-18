@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Large Screen Service Impl" />
+      <item value="rith" />
+      <item value="Arith Util" />
       <item value="流速" />
       <item value="Runoff" />
       <item value="径流量" />
@@ -48,15 +51,13 @@
       <item value="pipeline" />
       <item value="oillevel" />
       <item value="Invocation of init method failed" />
-      <item value="Invocation of init method failed; nested exception is java.lang.NullPointerException" />
-      <item value="An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception. io.netty.channel.ChannelPipelineException: com.zjars.zhgw.socket.SocketServerHandler is not a @Sharable handler, so can't be added or removed multiple times." />
-      <item value="2020-08-10 15:52:58,265 [nioEventLoopGroup-4-1] WARN io.netty.channel.DefaultChannelPipeline -[Slf4JLogger.java:151]- An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="771" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="CHINESE" value="772" />
+        <entry key="ENGLISH" value="773" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
+        <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="2" />
@@ -73,6 +74,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="3" />
+        <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
     </option>
