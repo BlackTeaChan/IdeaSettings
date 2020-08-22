@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Facility Data" />
       <item value="非法" />
       <item value="无效" />
       <item value="VALID" />
@@ -50,12 +51,11 @@
       <item value="MSM" />
       <item value="Msm" />
       <item value="Ytx Msm Util" />
-      <item value="短信" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="782" />
+        <entry key="ENGLISH" value="783" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
