@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="补考" />
+      <item value="term" />
+      <item value="b term" />
       <item value="私" />
       <item value="私は" />
       <item value="worker Group" />
@@ -48,14 +51,11 @@
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'socketServer': Invocation of init method failed; nested exception is java.net.BindException: Address already in use" />
       <item value="Address already in use" />
       <item value="种类" />
-      <item value="类型" />
-      <item value="降雨" />
-      <item value="Deprecated symbol used, consult docs for better alternative " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="795" />
+        <entry key="CHINESE" value="797" />
+        <entry key="ENGLISH" value="798" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
