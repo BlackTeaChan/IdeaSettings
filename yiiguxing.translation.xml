@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent Hash Map" />
+      <item value="sope" />
       <item value="This is a debug log, in 'getxqxnxlk" />
       <item value="so" />
       <item value="so what" />
@@ -49,8 +51,6 @@
       <item value="Runoff" />
       <item value="径流量" />
       <item value="流量" />
-      <item value="体积" />
-      <item value="speed" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,6 +80,11 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
