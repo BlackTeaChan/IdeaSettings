@@ -1,7 +1,7 @@
 <application>
   <component name="GiteeAccounts">
-    <account id="7d7e3555-6524-47ca-a11d-3776fcad1a83" name="blackteachan">
-      <Server host="gitee.com" />
+    <account id="1ac82690-c4a9-4165-8e08-81582e9cdf97" name="435661630@qq.com">
+      <Server host="gitee.com" clientid="fc439d90cb2ffc20cffeb70a6a4039e69847485e0fa56cfa0d1bf006098e24dd" clientsecret="386f187646ee361049f69cd213424bdba5af03e820d10a68a68e5fb520902596" />
     </account>
   </component>
 </application>
