@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval Time" />
       <item value="环保" />
       <item value="ep" />
       <item value="that can forget truble" />
@@ -50,12 +51,11 @@
       <item value="Large Screen Service Impl" />
       <item value="rith" />
       <item value="Arith Util" />
-      <item value="流速" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="798" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="CHINESE" value="799" />
+        <entry key="ENGLISH" value="800" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
