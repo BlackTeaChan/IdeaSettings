@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="svn revert --depth infinity" />
       <item value="svn: warning: W150002: '/Users/blackteachan/IdeaProjects/zptc-projects/bedroomCheckXcx' is already under version control " />
       <item value="Null Pointer Exception" />
       <item value="ゼロから始める" />
@@ -50,7 +51,6 @@
       <item value="Secret" />
       <item value="app Secret" />
       <item value="app Key" />
-      <item value="listAllData" />
     </histories>
     <option name="languageScores">
       <map>
