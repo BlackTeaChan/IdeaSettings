@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="svn: warning: W150002: '/Users/blackteachan/IdeaProjects/zptc-projects/bedroomCheckXcx' is already under version control " />
       <item value="Null Pointer Exception" />
       <item value="ゼロから始める" />
       <item value="good morning! signle dog" />
@@ -50,11 +51,10 @@
       <item value="app Secret" />
       <item value="app Key" />
       <item value="listAllData" />
-      <item value="newest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="802" />
+        <entry key="CHINESE" value="803" />
         <entry key="ENGLISH" value="803" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
