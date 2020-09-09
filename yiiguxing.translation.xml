@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
+      <item value="The last packet successfully received from the server was 1,002 milliseconds ago. The last packet sent successfully to the server was 1,002 milliseconds ago. at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) at java.lang.reflect.Constructor.newInstance(Constructor.java:423)" />
       <item value="svn revert --depth infinity" />
       <item value="svn: warning: W150002: '/Users/blackteachan/IdeaProjects/zptc-projects/bedroomCheckXcx' is already under version control " />
       <item value="Null Pointer Exception" />
@@ -49,13 +51,11 @@
       <item value="存在" />
       <item value="真实" />
       <item value="Secret" />
-      <item value="app Secret" />
-      <item value="app Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="803" />
+        <entry key="CHINESE" value="804" />
+        <entry key="ENGLISH" value="805" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
