@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="补考" />
       <item value="add Merged Region" />
       <item value="Export Excel Room Person Util" />
       <item value="merge" />
@@ -32,7 +33,6 @@
       <item value="so what" />
       <item value="right" />
       <item value="真的吗" />
-      <item value="补考" />
       <item value="term" />
       <item value="b term" />
       <item value="私" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="ENGLISH" value="816" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
