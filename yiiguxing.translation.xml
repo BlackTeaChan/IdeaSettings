@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rabbit with crown" />
+      <item value="Rabbit withcrown" />
+      <item value="Rabbitwithcrown" />
       <item value="merge word" />
       <item value="timer" />
       <item value="cannot resolve symbol" />
@@ -48,13 +51,10 @@
       <item value="Failed to submit a listener notification task. Event loop shut down" />
       <item value="2020-08-28 13:28:06,392 [http-nio-8080-exec-4] ERROR i.n.u.concurrent.DefaultPromise.rejectedExecution -[Slf4JLogger.java:181]- Failed to submit a listener notification task. Event loop shut down?" />
       <item value="java.util.concurrent.RejectedExecutionException: event executor terminated" />
-      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
-      <item value="sin" />
-      <item value="complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="817" />
+        <entry key="CHINESE" value="818" />
         <entry key="ENGLISH" value="818" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
