@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="主页" />
+      <item value="September" />
+      <item value="Suppress" />
+      <item value="SuppressWarnings" />
       <item value="stub" />
       <item value="TODO Auto-generated method stub" />
       <item value="previous" />
@@ -47,15 +51,11 @@
       <item value="sope" />
       <item value="This is a debug log, in 'getxqxnxlk" />
       <item value="so" />
-      <item value="so what" />
-      <item value="right" />
-      <item value="真的吗" />
-      <item value="term" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="824" />
-        <entry key="ENGLISH" value="825" />
+        <entry key="CHINESE" value="825" />
+        <entry key="ENGLISH" value="826" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
