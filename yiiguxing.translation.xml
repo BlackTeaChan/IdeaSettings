@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stub" />
+      <item value="TODO Auto-generated method stub" />
       <item value="previous" />
       <item value="Caused by: org.apache.ibatis.type.TypeException: Error setting non null for parameter #1 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter #1 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.sql.SQLException: Parameter index out of range (1 &gt; number of parameters, which is 0)." />
       <item value="get Grade" />
@@ -49,13 +51,11 @@
       <item value="right" />
       <item value="真的吗" />
       <item value="term" />
-      <item value="b term" />
-      <item value="私" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="822" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="824" />
+        <entry key="ENGLISH" value="825" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
