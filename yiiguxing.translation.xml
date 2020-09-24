@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1292 - Truncated incorrect DOUBLE value: '_BAK', Time: 0.001000s" />
+      <item value="删除旧数据" />
+      <item value="delete whitout new id" />
+      <item value="Transactional" />
+      <item value="list Duplicate Id Card" />
+      <item value="duplicate" />
+      <item value="获取重复身份证" />
+      <item value="获取" />
       <item value="主页" />
       <item value="September" />
       <item value="Suppress" />
@@ -21,7 +29,6 @@
       <item value="merge word" />
       <item value="timer" />
       <item value="cannot resolve symbol" />
-      <item value="Transactional" />
       <item value="补考" />
       <item value="add Merged Region" />
       <item value="Export Excel Room Person Util" />
@@ -44,18 +51,11 @@
       <item value="morning" />
       <item value="toast" />
       <item value="interval Time" />
-      <item value="环保" />
-      <item value="ep" />
-      <item value="that can forget truble" />
-      <item value="Concurrent Hash Map" />
-      <item value="sope" />
-      <item value="This is a debug log, in 'getxqxnxlk" />
-      <item value="so" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="825" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="829" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
