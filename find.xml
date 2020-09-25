@@ -15,5 +15,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
