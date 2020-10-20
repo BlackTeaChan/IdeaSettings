@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fault" />
+      <item value="故障" />
+      <item value="falut" />
       <item value="UPDATE xs_stu_register SET sfzc=ISNULL((SELECT top 1 CASE WHEN (YJZE != 0 AND SJZE = 0) OR SJZE IS NULL THEN 0 ELSE 1 END FROM zptc_stu_dev_mid.dbo.JFXX WHERE (XH=? or XH = ?) AND JFND=? order by sjze DESC),0) , xfzt=ISNULL((SELECT top 1 CASE WHEN (YJZE != 0 AND SJZE = 0) OR SJZE IS NULL THEN '' WHEN YJZE=SJZE THEN 1 WHEN YJZE &gt; SJZE THEN 2 WHEN YJZE &lt; SJZE THEN 3 ELSE '' END FROM zptc_stu_dev_mid.dbo.JFXX WHERE (XH=? or XH = ?) AND JFND=? order by sjze DESC),'') , wzcyy=ISNULL((SELECT top 1 CASE WHEN (YJZE != 0 AND SJZE = 0) OR SJZE IS NULL THEN 1 ELSE '' END FROM zptc_stu_dev_mid.dbo.JFXX WHERE (XH=? or XH = ?) AND JFND=? order by sjze DESC),1) , uper=?, uperTime=GETDATE() WHERE xnxq=(select xqbm from b_term where xn=? AND xq=?) AND xh=? 15:40:16 DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger 159 debug - ==&gt; Parameters: 20200303211(String), null, 2020(String), 20200303211(String), null, 2020(String), 20200303211(String), null, 2020(String), 985024(String), 2020-2021(String), 1(String), 20200303211(String) 15:40:16 DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger 159 debug - &lt;== Updates: 1" />
       <item value="Annotation" />
       <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors? Enable" />
@@ -48,14 +51,11 @@
       <item value="Export Excel Room Person Util" />
       <item value="merge" />
       <item value="marge" />
-      <item value="module" />
-      <item value="// TODO Auto-generated catch block" />
-      <item value="jw bkao rw xs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="837" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="CHINESE" value="840" />
+        <entry key="ENGLISH" value="841" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
@@ -75,6 +75,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="GREEK" value="1" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
     </option>
