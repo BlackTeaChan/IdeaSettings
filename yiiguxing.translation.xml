@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java" />
       <item value="标准" />
       <item value="fault" />
       <item value="故障" />
@@ -50,7 +51,6 @@
       <item value="补考" />
       <item value="add Merged Region" />
       <item value="Export Excel Room Person Util" />
-      <item value="merge" />
     </histories>
     <option name="languageScores">
       <map>
