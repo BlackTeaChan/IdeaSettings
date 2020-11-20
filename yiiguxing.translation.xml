@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="large" />
+      <item value="equest header is too large" />
       <item value="cancel" />
       <item value="moral appeal" />
       <item value="I want insert you" />
@@ -49,8 +51,6 @@
       <item value="Base Jdbc Logger" />
       <item value="1292 - Truncated incorrect DOUBLE value: '_BAK', Time: 0.001000s" />
       <item value="删除旧数据" />
-      <item value="delete whitout new id" />
-      <item value="Transactional" />
     </histories>
     <option name="languageScores">
       <map>
