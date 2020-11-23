@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [applicationContext.xml]; nested exception is java.io.FileNotFoundException: class path resource [applicationContext.xml] cannot be opened because it does not exist" />
       <item value="audit Ok List dlb" />
       <item value="large" />
       <item value="equest header is too large" />
@@ -50,12 +51,11 @@
       <item value="I get it" />
       <item value="use Compiler Module" />
       <item value="Base Jdbc Logger" />
-      <item value="1292 - Truncated incorrect DOUBLE value: '_BAK', Time: 0.001000s" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="861" />
-        <entry key="ENGLISH" value="861" />
+        <entry key="ENGLISH" value="862" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
