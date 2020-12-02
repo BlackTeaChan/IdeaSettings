@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绕过" />
+      <item value="跳过" />
+      <item value="spik" />
       <item value="Illegal Access Exception" />
       <item value="audit 2 Jsbh" />
       <item value="jw table temp re Exam Audit" />
@@ -48,14 +51,11 @@
       <item value="Constants" />
       <item value="servers" />
       <item value="Manage" />
-      <item value="2020/10/27 16:55:16 [nioEventLoopGroup-2-2] WARN [io.netty.channel.DefaultChannelPipeline] - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception." />
-      <item value="bootstrap" />
-      <item value="trim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="873" />
-        <entry key="ENGLISH" value="874" />
+        <entry key="CHINESE" value="875" />
+        <entry key="ENGLISH" value="876" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
