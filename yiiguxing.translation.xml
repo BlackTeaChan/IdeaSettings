@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="?string(...) expects 1 argument but has received 2." />
+      <item value="Exception message was already printed; see it above" />
+      <item value="FTL stack trace (&quot;~&quot; means nesting-related): - Failed at: ${guest.idCard[16]?number % 2?string(... [in template &quot;lfry.xml&quot; at line 1353, column 38]" />
+      <item value="expects 1 argument but has received" />
+      <item value="Error executing FreeMarker template" />
+      <item value="07-Dec-2020 19:01:57.137 严重 [http-nio-8080-exec-8] freemarker.log._JULLoggerFactory$JULLogger.error Error executing FreeMarker template" />
+      <item value="Can't convert boolean to string automatically, because the &quot;boolean_format&quot; setting was &quot;true,false&quot;, which is the legacy default computer-language format, and hence isn't accepted." />
+      <item value="Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use &lt;#if myOptionalVar??&gt;when-present&lt;#else&gt;when-missing&lt;/#if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??" />
+      <item value="Tip: It's the step after the last dot that caused this error, not those before it." />
       <item value="绕过" />
       <item value="跳过" />
       <item value="spik" />
@@ -42,20 +51,11 @@
       <item value="method" />
       <item value="REQUERY TIMEOUT" />
       <item value="last Active Time" />
-      <item value="tips" />
-      <item value="提示" />
-      <item value="skin" />
-      <item value="查询间隔" />
-      <item value="匹配" />
-      <item value="fire Channel Active" />
-      <item value="Constants" />
-      <item value="servers" />
-      <item value="Manage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="875" />
-        <entry key="ENGLISH" value="876" />
+        <entry key="CHINESE" value="885" />
+        <entry key="ENGLISH" value="887" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
