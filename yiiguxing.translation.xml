@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="output Path" />
+      <item value="dest Path" />
+      <item value="成绩单" />
       <item value="压缩包后缀" />
       <item value="zip" />
-      <item value="成绩单" />
       <item value="institute" />
       <item value="compress" />
       <item value="TEMPORARY ROOT DIRECTORY" />
@@ -49,13 +51,11 @@
       <item value="deprecated" />
       <item value="org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [applicationContext.xml]; nested exception is java.io.FileNotFoundException: class path resource [applicationContext.xml] cannot be opened because it does not exist" />
       <item value="audit Ok List dlb" />
-      <item value="large" />
-      <item value="equest header is too large" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="900" />
-        <entry key="ENGLISH" value="902" />
+        <entry key="CHINESE" value="902" />
+        <entry key="ENGLISH" value="903" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
@@ -65,6 +65,7 @@
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
+        <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
