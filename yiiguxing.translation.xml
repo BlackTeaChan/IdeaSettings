@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.itextpdf.tool.xml.exceptions.RuntimeWorkerException: Invalid nested tag div found, expected closing tag img." />
+      <item value="For &quot;.&quot; left-hand operand: Expected a hash, but this has evaluated to a number (wrapper: f.t.SimpleNumber):" />
       <item value="The following has evaluated to null or missing:" />
+      <item value="String index out of range: The index was 1 (0-based), but the length of the string is only 1." />
       <item value="output Path" />
       <item value="dest Path" />
       <item value="成绩单" />
@@ -48,14 +51,11 @@
       <item value="De Compress Util" />
       <item value="说明" />
       <item value="注解" />
-      <item value="注释" />
-      <item value="deprecated" />
-      <item value="org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [applicationContext.xml]; nested exception is java.io.FileNotFoundException: class path resource [applicationContext.xml] cannot be opened because it does not exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="903" />
-        <entry key="ENGLISH" value="904" />
+        <entry key="CHINESE" value="909" />
+        <entry key="ENGLISH" value="910" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
