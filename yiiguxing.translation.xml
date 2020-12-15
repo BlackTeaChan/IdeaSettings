@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="09:33:27 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 190 forwardToErrorPage - Forwarding to error page from request [/search_user/exportCjd] due to exception [Cannot find a required cmap encoding record.] java.lang.IllegalStateException: Cannot find a required cmap encoding record." />
       <item value="18:22:32 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 190 forwardToErrorPage - Forwarding to error page from request [/search_user/exportCjd] due to exception [Cannot find a required cmap encoding record.] java.lang.IllegalStateException: Cannot find a required cmap encoding record." />
       <item value="WDW Util" />
       <item value="log4j:WARN Please initialize the log4j system properly." />
@@ -50,12 +51,11 @@
       <item value="HEAD" />
       <item value="@Suppress Warnings(&quot;unchecked&quot;)" />
       <item value="* Allow to specify a {@link ChannelOption} which is used for the {@link Channel} instances once they got * created. Use a value of {@code null} to remove a previous set {@link ChannelOption}. */" />
-      <item value="SO BACKLOG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="916" />
-        <entry key="ENGLISH" value="917" />
+        <entry key="CHINESE" value="917" />
+        <entry key="ENGLISH" value="918" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
