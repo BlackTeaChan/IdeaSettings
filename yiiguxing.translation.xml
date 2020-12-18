@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execute" />
+      <item value="执行" />
+      <item value="Concurrent Hash Map" />
+      <item value="访问" />
+      <item value="SUBTRACT" />
+      <item value="ADD" />
+      <item value="减" />
+      <item value="减少" />
+      <item value="增加" />
+      <item value="加一" />
+      <item value="上升" />
+      <item value="递增" />
+      <item value="添加" />
       <item value="repairtime" />
       <item value="java.lang.IllegalStateException: Cannot find a required cmap encoding record." />
       <item value="故障" />
@@ -38,24 +51,11 @@
       <item value="expects 1 argument but has received" />
       <item value="Error executing FreeMarker template" />
       <item value="07-Dec-2020 19:01:57.137 严重 [http-nio-8080-exec-8] freemarker.log._JULLoggerFactory$JULLogger.error Error executing FreeMarker template" />
-      <item value="Can't convert boolean to string automatically, because the &quot;boolean_format&quot; setting was &quot;true,false&quot;, which is the legacy default computer-language format, and hence isn't accepted." />
-      <item value="Tip: It's the step after the last dot that caused this error, not those before it." />
-      <item value="绕过" />
-      <item value="跳过" />
-      <item value="spik" />
-      <item value="Illegal Access Exception" />
-      <item value="audit 2 Jsbh" />
-      <item value="jw table temp re Exam Audit" />
-      <item value="DEFAULT INTERVAL TIME" />
-      <item value="拆解" />
-      <item value="拆" />
-      <item value="TAIL" />
-      <item value="尾" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="920" />
-        <entry key="ENGLISH" value="921" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="927" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
