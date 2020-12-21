@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="runner" />
+      <item value="运行" />
+      <item value="运行模式" />
+      <item value="RUN MODE" />
       <item value="Illegal Access Exception" />
       <item value="execute" />
       <item value="执行" />
@@ -47,15 +51,11 @@
       <item value="For &quot;...(...)&quot; callee: Expected a method, but this has evaluated to a date_or_time_or_datetime (wrapper: f.t.SimpleDate):" />
       <item value="07-Dec-2020 21:38:28.155 严重 [http-nio-8080-exec-38] freemarker.log._JULLoggerFactory$JULLogger.error Error executing FreeMarker template" />
       <item value="?string(...) expects 1 argument but has received 2." />
-      <item value="Exception message was already printed; see it above" />
-      <item value="FTL stack trace (&quot;~&quot; means nesting-related): - Failed at: ${guest.idCard[16]?number % 2?string(... [in template &quot;lfry.xml&quot; at line 1353, column 38]" />
-      <item value="expects 1 argument but has received" />
-      <item value="Error executing FreeMarker template" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="928" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="930" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
