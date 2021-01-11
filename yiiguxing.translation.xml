@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="采集数据" />
+      <item value="young" />
+      <item value="幼稚" />
+      <item value="native" />
+      <item value="equals" />
       <item value="property" />
       <item value="has empty" />
       <item value="runner" />
@@ -46,16 +51,11 @@
       <item value="临时目录" />
       <item value="TEMP DIRECTORY" />
       <item value="目录" />
-      <item value="async" />
-      <item value="Plexus Archiver" />
-      <item value="Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use &lt;#if myOptionalVar??&gt;when-present&lt;#else&gt;when-missing&lt;/#if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??" />
-      <item value="==&gt; companyGuest.startDate ? datetime [in template &quot;lfry.xml&quot; at line 894, column 40]" />
-      <item value="For &quot;...(...)&quot; callee: Expected a method, but this has evaluated to a date_or_time_or_datetime (wrapper: f.t.SimpleDate):" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="931" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="935" />
+        <entry key="ENGLISH" value="936" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
