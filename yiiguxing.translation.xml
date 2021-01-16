@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="容器" />
+      <item value="dev-close-trace" />
+      <item value="Trace" />
+      <item value="Traceable" />
+      <item value="Traceabil" />
+      <item value="Traceability" />
+      <item value="溯源" />
       <item value="belong Name" />
       <item value="采集数据" />
       <item value="young" />
@@ -44,18 +51,11 @@
       <item value="output Path" />
       <item value="dest Path" />
       <item value="成绩单" />
-      <item value="压缩包后缀" />
-      <item value="zip" />
-      <item value="institute" />
-      <item value="compress" />
-      <item value="TEMPORARY ROOT DIRECTORY" />
-      <item value="临时目录" />
-      <item value="TEMP DIRECTORY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="936" />
-        <entry key="ENGLISH" value="937" />
+        <entry key="CHINESE" value="939" />
+        <entry key="ENGLISH" value="940" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
