@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hide" />
       <item value="容器" />
       <item value="dev-close-trace" />
       <item value="Trace" />
@@ -50,12 +51,11 @@
       <item value="String index out of range: The index was 1 (0-based), but the length of the string is only 1." />
       <item value="output Path" />
       <item value="dest Path" />
-      <item value="成绩单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="940" />
+        <entry key="CHINESE" value="940" />
+        <entry key="ENGLISH" value="941" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
