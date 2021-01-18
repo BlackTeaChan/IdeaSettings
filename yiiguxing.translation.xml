@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.alibaba.fastjson.JSONException: default constructor not found. class com.zjars.fcjzhgw.model.GatewayJson" />
       <item value="心跳响应" />
       <item value="ack" />
       <item value="网关" />
@@ -50,12 +51,11 @@
       <item value="添加" />
       <item value="repairtime" />
       <item value="java.lang.IllegalStateException: Cannot find a required cmap encoding record." />
-      <item value="故障" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="CHINESE" value="948" />
+        <entry key="ENGLISH" value="949" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
