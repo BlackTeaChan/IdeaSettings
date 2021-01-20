@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="replacement" />
+      <item value="regex" />
       <item value="replace" />
       <item value="com.alibaba.fastjson.JSONException: default constructor not found. class com.zjars.fcjzhgw.model.GatewayJson" />
       <item value="心跳响应" />
@@ -49,13 +51,11 @@
       <item value="加一" />
       <item value="上升" />
       <item value="递增" />
-      <item value="添加" />
-      <item value="repairtime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="949" />
-        <entry key="ENGLISH" value="950" />
+        <entry key="CHINESE" value="952" />
+        <entry key="ENGLISH" value="953" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
