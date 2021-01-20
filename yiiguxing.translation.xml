@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle Penetrate" />
+      <item value="handle" />
+      <item value="handler" />
+      <item value="处理心跳" />
+      <item value="处理心跳包" />
+      <item value="heartbeat Handler" />
+      <item value="heart Handler" />
+      <item value="heart Handle" />
       <item value="replacement" />
       <item value="regex" />
       <item value="replace" />
@@ -43,24 +51,16 @@
       <item value="执行" />
       <item value="Concurrent Hash Map" />
       <item value="访问" />
-      <item value="SUBTRACT" />
-      <item value="ADD" />
-      <item value="减" />
-      <item value="减少" />
-      <item value="增加" />
-      <item value="加一" />
-      <item value="上升" />
-      <item value="递增" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="952" />
-        <entry key="ENGLISH" value="953" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
