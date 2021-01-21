@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="async" />
       <item value="handle Penetrate" />
       <item value="handle" />
       <item value="handler" />
@@ -50,11 +51,10 @@
       <item value="execute" />
       <item value="执行" />
       <item value="Concurrent Hash Map" />
-      <item value="访问" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="958" />
+        <entry key="CHINESE" value="959" />
         <entry key="ENGLISH" value="959" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
