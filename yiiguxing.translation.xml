@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flow" />
       <item value="disarm" />
       <item value="alarm" />
       <item value="dss alarm" />
@@ -50,12 +51,11 @@
       <item value="young" />
       <item value="幼稚" />
       <item value="native" />
-      <item value="equals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="963" />
+        <entry key="CHINESE" value="963" />
+        <entry key="ENGLISH" value="964" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
