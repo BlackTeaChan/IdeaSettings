@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outboundApp': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
+      <item value="Lookup method resolution failed" />
+      <item value="----------&gt; Parent Classloader:" />
+      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
+      <item value="delegate" />
+      <item value="Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
+      <item value="2021-02-25 16:43:03,581 [RMI TCP Connection(20)-127.0.0.1] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext -[AbstractApplicationContext.java:558]- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outboundApp': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
       <item value="Socket Pool" />
       <item value="Identify and stop the process that's listening on port 8080 or configure this application to listen on another port." />
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outbound': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.Outbound] from ClassLoader [ParallelWebappClassLoader" />
@@ -44,18 +51,11 @@
       <item value="replacement" />
       <item value="regex" />
       <item value="replace" />
-      <item value="com.alibaba.fastjson.JSONException: default constructor not found. class com.zjars.fcjzhgw.model.GatewayJson" />
-      <item value="心跳响应" />
-      <item value="ack" />
-      <item value="网关" />
-      <item value="Penetrate" />
-      <item value="透传" />
-      <item value="READ DIGITAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="988" />
+        <entry key="ENGLISH" value="989" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
