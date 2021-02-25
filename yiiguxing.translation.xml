@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Class Def Found Error" />
+      <item value="Caused by: java.lang.NoClassDefFoundError: org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory" />
       <item value="outboundHandler is empty" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outboundApp': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
       <item value="Lookup method resolution failed" />
@@ -49,13 +51,11 @@
       <item value="heartbeat Handler" />
       <item value="heart Handler" />
       <item value="heart Handle" />
-      <item value="replacement" />
-      <item value="regex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="989" />
-        <entry key="ENGLISH" value="990" />
+        <entry key="CHINESE" value="991" />
+        <entry key="ENGLISH" value="992" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
