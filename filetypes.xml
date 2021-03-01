@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="GasMapper" type="DTD" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".jsdtscope" type="Markdown" />
       <mapping pattern="啊" type="PLAIN_TEXT" />
       <mapping pattern="channel2_0" type="PLAIN_TEXT" />

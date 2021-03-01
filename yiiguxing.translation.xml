@@ -1,90 +1,88 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="UPDATE xs_stu_register SET sfzc=ISNULL((SELECT top 1 CASE WHEN (YJZE != 0 AND SJZE = 0) OR SJZE IS NULL THEN 0 ELSE 1 END FROM zptc_stu_dev_mid.dbo.JFXX WHERE (XH=? or XH = ?) AND JFND=? order by sjze DESC),0) , xfzt=ISNULL((SELECT top 1 CASE WHEN (YJZE != 0 AND SJZE = 0) OR SJZE IS NULL THEN '' WHEN YJZE=SJZE THEN 1 WHEN YJZE &gt; SJZE THEN 2 WHEN YJZE &lt; SJZE THEN 3 ELSE '' END FROM zptc_stu_dev_mid.dbo.JFXX WHERE (XH=? or XH = ?) AND JFND=? order by sjze DESC),'') , wzcyy=ISNULL((SELECT top 1 CASE WHEN (YJZE != 0 AND SJZE = 0) OR SJZE IS NULL THEN 1 ELSE '' END FROM zptc_stu_dev_mid.dbo.JFXX WHERE (XH=? or XH = ?) AND JFND=? order by sjze DESC),1) , uper=?, uperTime=GETDATE() WHERE xnxq=(select xqbm from b_term where xn=? AND xq=?) AND xh=? 15:40:16 DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger 159 debug - ==&gt; Parameters: 20200303211(String), null, 2020(String), 20200303211(String), null, 2020(String), 20200303211(String), null, 2020(String), 985024(String), 2020-2021(String), 1(String), 20200303211(String) 15:40:16 DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger 159 debug - &lt;== Updates: 1" />
-      <item value="Annotation" />
-      <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors? Enable" />
-      <item value="8:38 上午 Lombok Requires Annotation Processing: Do you want to enable annotation processors? Enable" />
-      <item value="categories" />
-      <item value="inspection" />
-      <item value="检查" />
-      <item value="巡逻" />
-      <item value="has-bind" />
-      <item value="我拿到了" />
-      <item value="我抓到了" />
-      <item value="I get it" />
-      <item value="use Compiler Module" />
-      <item value="Base Jdbc Logger" />
-      <item value="1292 - Truncated incorrect DOUBLE value: '_BAK', Time: 0.001000s" />
-      <item value="删除旧数据" />
-      <item value="delete whitout new id" />
-      <item value="Transactional" />
-      <item value="list Duplicate Id Card" />
-      <item value="duplicate" />
-      <item value="获取重复身份证" />
-      <item value="获取" />
-      <item value="主页" />
-      <item value="September" />
-      <item value="Suppress" />
-      <item value="SuppressWarnings" />
-      <item value="stub" />
-      <item value="TODO Auto-generated method stub" />
-      <item value="previous" />
-      <item value="Caused by: org.apache.ibatis.type.TypeException: Error setting non null for parameter #1 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter #1 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.sql.SQLException: Parameter index out of range (1 &gt; number of parameters, which is 0)." />
-      <item value="get Grade" />
-      <item value="main" />
-      <item value="Model Attribute" />
-      <item value="orig" />
-      <item value="orige" />
-      <item value="DuBox is not available in current area" />
-      <item value="Rabbit with crown" />
-      <item value="Rabbit withcrown" />
-      <item value="Rabbitwithcrown" />
-      <item value="merge word" />
-      <item value="timer" />
-      <item value="cannot resolve symbol" />
-      <item value="补考" />
-      <item value="add Merged Region" />
-      <item value="Export Excel Room Person Util" />
-      <item value="merge" />
-      <item value="marge" />
-      <item value="module" />
-      <item value="// TODO Auto-generated catch block" />
-      <item value="jw bkao rw xs" />
+      <item value="No Class Def Found Error" />
+      <item value="Caused by: java.lang.NoClassDefFoundError: org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory" />
+      <item value="outboundHandler is empty" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outboundApp': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
+      <item value="Lookup method resolution failed" />
+      <item value="----------&gt; Parent Classloader:" />
+      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
+      <item value="delegate" />
+      <item value="Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
+      <item value="2021-02-25 16:43:03,581 [RMI TCP Connection(20)-127.0.0.1] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext -[AbstractApplicationContext.java:558]- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outboundApp': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
+      <item value="Socket Pool" />
+      <item value="Identify and stop the process that's listening on port 8080 or configure this application to listen on another port." />
+      <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outbound': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.Outbound] from ClassLoader [ParallelWebappClassLoader" />
+      <item value="Sample Pipeline Factory" />
+      <item value="Sample Outbound Handler" />
+      <item value="外置" />
+      <item value="without tomcat" />
+      <item value="incoming channel data" />
+      <item value="all Zks" />
+      <item value="top 12" />
+      <item value="FILE NOT FOUND" />
+      <item value="NORMAL CLEARING" />
+      <item value="FreeSWITCH ESL Spring Boot Starter Example" />
+      <item value="Unexpected" />
+      <item value="Unexpected message content type" />
+      <item value="refused" />
+      <item value="2021-02-04 15:16:32.423 WARN 5510 --- [ntLoopGroup-2-3] l.t.f.e.i.handler.InboundChannelHandler : Unexpected message content type [text/rude-rejection]" />
+      <item value="Freeswitch Esl Spring Boot Starter Example Application" />
+      <item value="* &lt;p&gt;FreeswitchEslSpringBootStarterExampleApplication class.&lt;/p&gt;" />
+      <item value="ant" />
+      <item value="flow" />
+      <item value="disarm" />
+      <item value="alarm" />
+      <item value="dss alarm" />
+      <item value="disalarm" />
+      <item value="Disarm" />
+      <item value="消警" />
+      <item value="error" />
+      <item value="Illegal Argument Exception" />
+      <item value="deployment" />
+      <item value="采集" />
+      <item value="async" />
+      <item value="handle Penetrate" />
+      <item value="handle" />
+      <item value="handler" />
+      <item value="处理心跳" />
+      <item value="处理心跳包" />
+      <item value="heartbeat Handler" />
+      <item value="heart Handler" />
+      <item value="heart Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="837" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="CHINESE" value="991" />
+        <entry key="ENGLISH" value="992" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="ROMANIAN" value="3" />
+        <entry key="KURDISH" value="1" />
+        <entry key="LITHUANIAN" value="1" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="6" />
         <entry key="SLOVAK" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="GREEK" value="1" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
