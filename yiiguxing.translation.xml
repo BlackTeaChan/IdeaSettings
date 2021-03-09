@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field injection is not recommended " />
       <item value="Lader" />
       <item value="completion rate" />
       <item value="completion" />
@@ -50,7 +51,6 @@
       <item value="NORMAL CLEARING" />
       <item value="FreeSWITCH ESL Spring Boot Starter Example" />
       <item value="Unexpected" />
-      <item value="Unexpected message content type" />
     </histories>
     <option name="languageScores">
       <map>
