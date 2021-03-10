@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="muilt" />
+      <item value="more" />
+      <item value="query" />
+      <item value="list" />
       <item value="Field injection is not recommended " />
       <item value="Lader" />
       <item value="completion rate" />
@@ -47,10 +51,6 @@
       <item value="incoming channel data" />
       <item value="all Zks" />
       <item value="top 12" />
-      <item value="FILE NOT FOUND" />
-      <item value="NORMAL CLEARING" />
-      <item value="FreeSWITCH ESL Spring Boot Starter Example" />
-      <item value="Unexpected" />
     </histories>
     <option name="languageScores">
       <map>
