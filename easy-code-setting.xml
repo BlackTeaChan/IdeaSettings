@@ -60,7 +60,7 @@
                     <option name="javaType" value="java.lang.Boolean" />
                   </TypeMapper>
                   <TypeMapper>
-                    <option name="columnType" value="tinyint(4)" />
+                    <option name="columnType" value="tinyint(4)?" />
                     <option name="javaType" value="java.lang.Integer" />
                   </TypeMapper>
                   <TypeMapper>
