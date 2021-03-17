@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Constructor for use with outbound socket client only. This client mode does not need a call" />
+      <item value="// cache this 'header' as a body line &lt;-- useful for Outbound client mode" />
       <item value="synchronized" />
       <item value="Error during ServletContainerInitializer processing" />
       <item value="2021-03-17 14:05:12,109 [RMI TCP Connection(2)-127.0.0.1] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext -[AbstractApplicationContext.java:558]- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'freeswitchController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.controller.FreeswitchController] from ClassLoader [ParallelWebappClassLoader" />
@@ -49,13 +51,11 @@
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outboundApp': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
       <item value="Lookup method resolution failed" />
       <item value="----------&gt; Parent Classloader:" />
-      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1015" />
-        <entry key="ENGLISH" value="1015" />
+        <entry key="CHINESE" value="1016" />
+        <entry key="ENGLISH" value="1017" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
