@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="voice-card" />
       <item value="* Constructor for use with outbound socket client only. This client mode does not need a call" />
       <item value="// cache this 'header' as a body line &lt;-- useful for Outbound client mode" />
       <item value="synchronized" />
@@ -50,12 +51,11 @@
       <item value="outboundHandler is empty" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'outboundApp': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.zjars.aswitch.freeswitch.outbound.OutboundApp] from ClassLoader [ParallelWebappClassLoader" />
       <item value="Lookup method resolution failed" />
-      <item value="----------&gt; Parent Classloader:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1016" />
-        <entry key="ENGLISH" value="1017" />
+        <entry key="CHINESE" value="1017" />
+        <entry key="ENGLISH" value="1018" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
