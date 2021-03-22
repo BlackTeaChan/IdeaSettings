@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监听" />
+      <item value="linsente" />
+      <item value="lisenter" />
+      <item value="dismantle" />
+      <item value="拆" />
+      <item value="insert" />
       <item value="operation-list" />
       <item value="list" />
       <item value="operation" />
@@ -45,24 +51,18 @@
       <item value="FILE DIRECTORY" />
       <item value="目录" />
       <item value="19000" />
-      <item value="Logout Filter" />
-      <item value="set Redirect Url" />
-      <item value="set Success Url" />
-      <item value="set Login Url" />
-      <item value="logout Filter" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1022" />
-        <entry key="ENGLISH" value="1023" />
+        <entry key="CHINESE" value="1024" />
+        <entry key="ENGLISH" value="1025" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="4" />
+        <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
