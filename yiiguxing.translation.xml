@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method annotated with @Bean is called directly. Use dependency injection instead. " />
       <item value="Received disconnection notice" />
       <item value="Interrupted Exception" />
       <item value="Start Outbound fail" />
@@ -50,11 +51,10 @@
       <item value="Front" />
       <item value="后台" />
       <item value="muilt" />
-      <item value="more" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1042" />
+        <entry key="CHINESE" value="1043" />
         <entry key="ENGLISH" value="1043" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
