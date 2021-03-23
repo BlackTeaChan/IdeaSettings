@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RINGING" />
+      <item value="CS EXECUTE" />
+      <item value="parse command" />
       <item value="created for each connection from FS" />
       <item value="// Bind and start to accept incoming connections." />
       <item value="substitute" />
@@ -48,14 +51,11 @@
       <item value="总数" />
       <item value="sum" />
       <item value="uncompleted" />
-      <item value="uncomplete" />
-      <item value="未完成的" />
-      <item value="未完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1030" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="CHINESE" value="1033" />
+        <entry key="ENGLISH" value="1034" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
