@@ -46,6 +46,10 @@
           <option name="url" value="http://47.98.172.54:8010" />
           <option name="userName" value="ars" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhouhailin/freeswitch-esl-all.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
