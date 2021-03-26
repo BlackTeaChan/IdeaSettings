@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receive" />
+      <item value="接收" />
+      <item value="接受" />
+      <item value="rename referens" />
+      <item value="referens" />
+      <item value="get Before Lable" />
       <item value="通话" />
       <item value="cur Lang" />
       <item value="_nickname" />
@@ -45,17 +51,11 @@
       <item value="instead" />
       <item value="替身" />
       <item value="监听事件" />
-      <item value="listener" />
-      <item value="listen" />
-      <item value="监听" />
-      <item value="linsente" />
-      <item value="lisenter" />
-      <item value="dismantle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1059" />
-        <entry key="ENGLISH" value="1060" />
+        <entry key="CHINESE" value="1062" />
+        <entry key="ENGLISH" value="1063" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
