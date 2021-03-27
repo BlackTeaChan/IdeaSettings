@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SO KEEPALIVE" />
       <item value="Label" />
       <item value="Lable" />
       <item value="port" />
@@ -50,12 +51,11 @@
       <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'io.netty.bootstrap.ServerBootstrap' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'io.netty.bootstrap.ServerBootstrap' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {} at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:732) at" />
       <item value="RINGING" />
-      <item value="CS EXECUTE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1069" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
