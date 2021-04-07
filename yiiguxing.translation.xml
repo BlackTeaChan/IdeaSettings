@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="net dau" />
+      <item value="netdau" />
       <item value="举例" />
       <item value="about you" />
       <item value="Error parsing HTTP request header" />
@@ -49,12 +51,10 @@
       <item value="Pre Destroy" />
       <item value="Construction complete" />
       <item value="Construction" />
-      <item value="Construct" />
-      <item value="Constr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1082" />
+        <entry key="CHINESE" value="1083" />
         <entry key="ENGLISH" value="1083" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
@@ -75,6 +75,7 @@
         <entry key="SLOVAK" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
+        <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="GREEK" value="1" />
         <entry key="HUNGARIAN" value="1" />
