@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disalarm" />
+      <item value="dis alarm" />
+      <item value="dss alarm" />
       <item value="采集" />
       <item value="Exception occurred while inserting records" />
       <item value="INTERNAL_SERVER_ERROR] Exception occurred while inserting records" />
@@ -48,13 +51,10 @@
       <item value="list Connection" />
       <item value="inherit Doc" />
       <item value="after Properties Set" />
-      <item value="prot" />
-      <item value="prod" />
-      <item value="PORT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1088" />
+        <entry key="CHINESE" value="1089" />
         <entry key="ENGLISH" value="1089" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
@@ -80,6 +80,7 @@
         <entry key="GREEK" value="1" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="2" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
