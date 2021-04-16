@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cors Config" />
       <item value="やさし" />
       <item value="やさしい気持" />
       <item value="やさしい気持ちが 風になる時 " />
@@ -50,7 +51,6 @@
       <item value="cur Lang" />
       <item value="_nickname" />
       <item value="_nikename" />
-      <item value="swagger" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="3" />
-        <entry key="CATALAN" value="1" />
+        <entry key="CATALAN" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="6" />
