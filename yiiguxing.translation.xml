@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单点" />
+      <item value="登录" />
+      <item value="单点登录" />
       <item value="Cors Config" />
       <item value="やさし" />
       <item value="やさしい気持" />
@@ -48,14 +51,11 @@
       <item value="referens" />
       <item value="get Before Lable" />
       <item value="通话" />
-      <item value="cur Lang" />
-      <item value="_nickname" />
-      <item value="_nikename" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1093" />
-        <entry key="ENGLISH" value="1093" />
+        <entry key="ENGLISH" value="1094" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
