@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclusions" />
+      <item value="exclusion" />
       <item value="[ERROR] Failed to execute goal on project mes-mnh-common: Could not resolve dependencies for project com.zjars.mnhmes:mes-mnh-common:jar:1.0.0-SNAPSHOT: Could not find artifact com.zjars.mnhmes:mes-mnh-service:jar:1.0.0-SNAPSHOT -&gt; [Help 1]" />
       <item value="Sms Info Context" />
       <item value="quartz" />
@@ -49,13 +51,11 @@
       <item value="CHANNEL HANGUP" />
       <item value="WRONG CALL STATE" />
       <item value="Starting Quartz Scheduler now, after delay of 10 seconds" />
-      <item value="2021-03-29 10:08:11,500 [Quartz Scheduler [adminQuartzScheduler]] INFO o.s.scheduling.quartz.SchedulerFactoryBean -[SchedulerFactoryBean.java:721]- Starting Quartz Scheduler now, after delay of 10 seconds" />
-      <item value="SO KEEPALIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1104" />
-        <entry key="ENGLISH" value="1104" />
+        <entry key="CHINESE" value="1105" />
+        <entry key="ENGLISH" value="1106" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
