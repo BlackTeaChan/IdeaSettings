@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omitted for conflict with 2.3.2" />
+      <item value="omitted for conflict with" />
       <item value="logback" />
       <item value="冷" />
       <item value="deprecated" />
@@ -49,8 +51,6 @@
       <item value="Exception in thread &quot;main&quot; java.lang.IllegalArgumentException: deviceIds, times, measurementsList and valuesList's size should be equal" />
       <item value="net dau" />
       <item value="netdau" />
-      <item value="举例" />
-      <item value="about you" />
     </histories>
     <option name="languageScores">
       <map>
