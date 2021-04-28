@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FAINT" />
+      <item value="author" />
       <item value="Illegal Access Exception" />
       <item value="共产" />
       <item value="Internal" />
@@ -49,13 +51,11 @@
       <item value="说明" />
       <item value="解释" />
       <item value="disalarm" />
-      <item value="dis alarm" />
-      <item value="dss alarm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1121" />
-        <entry key="ENGLISH" value="1122" />
+        <entry key="CHINESE" value="1123" />
+        <entry key="ENGLISH" value="1124" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
