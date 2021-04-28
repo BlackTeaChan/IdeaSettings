@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="FAINT" />
+      <item value="ITALIC" />
       <item value="author" />
+      <item value="Codes are far away from bugs with the animal protecting" />
+      <item value="FAINT" />
       <item value="Illegal Access Exception" />
       <item value="共产" />
       <item value="Internal" />
@@ -49,13 +51,11 @@
       <item value="やさしい気持ちが 風になる時 " />
       <item value="fire Channel Active" />
       <item value="说明" />
-      <item value="解释" />
-      <item value="disalarm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1123" />
-        <entry key="ENGLISH" value="1124" />
+        <entry key="CHINESE" value="1126" />
+        <entry key="ENGLISH" value="1127" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
