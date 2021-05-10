@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field logService in com.zjars.redbook.sys.advice.LogAdvice required a bean of type 'com.zjars.redbook.sys.dao.SysLogsDao' that could not be found." />
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.zjars.redbook.service.dao.SysUserDirectorDao.count" />
       <item value="namespace" />
       <item value="A component required a bean of type 'com.zjars.redbook.service.dao.IntegralTemplateDao' that could not be found." />
       <item value="A component required a bean of type 'com.zjars.redbook.common.service.SimplenessService' that could not be found." />
@@ -49,13 +51,11 @@
       <item value="File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!" />
       <item value="RECONNECT INTEVAL TIME" />
       <item value="single Point Login" />
-      <item value="单点" />
-      <item value="登录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1133" />
-        <entry key="ENGLISH" value="1134" />
+        <entry key="CHINESE" value="1135" />
+        <entry key="ENGLISH" value="1136" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
