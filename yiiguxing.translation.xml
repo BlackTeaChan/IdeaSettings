@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="meter" />
+      <item value="米" />
+      <item value="千米" />
+      <item value="半径" />
+      <item value="Location Constants" />
       <item value="VALID" />
       <item value="2021-05-11 19:22:29,275 [QuartzScheduler_DefaultQuartzScheduler-chenhongchas-iMacPro.local1620731954797_ClusterManager] WARN o.s.scheduling.quartz.LocalDataSourceJobStore -[JobStoreSupport.java:3411]- This scheduler instance (chenhongchas-iMacPro.local1620731954797) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
       <item value="Field logService in com.zjars.redbook.sys.advice.LogAdvice required a bean of type 'com.zjars.redbook.sys.dao.SysLogsDao' that could not be found." />
@@ -46,16 +51,11 @@
       <item value="of course" />
       <item value="course" />
       <item value="referencing itself" />
-      <item value="生产环境网址" />
-      <item value="生产环境" />
-      <item value="PRODUCE WEB URL" />
-      <item value="生产" />
-      <item value="File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1138" />
-        <entry key="ENGLISH" value="1139" />
+        <entry key="CHINESE" value="1142" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
