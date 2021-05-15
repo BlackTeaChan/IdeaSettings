@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剪贴板" />
+      <item value="execute task" />
+      <item value="execute" />
       <item value="定位" />
       <item value="定位常量" />
       <item value="Location Constants" />
@@ -48,14 +51,11 @@
       <item value="[ERROR] Failed to execute goal on project mes-mnh-common: Could not resolve dependencies for project com.zjars.mnhmes:mes-mnh-common:jar:1.0.0-SNAPSHOT: Could not find artifact com.zjars.mnhmes:mes-mnh-service:jar:1.0.0-SNAPSHOT -&gt; [Help 1]" />
       <item value="Sms Info Context" />
       <item value="quartz" />
-      <item value="device" />
-      <item value="devices" />
-      <item value="of course" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1143" />
-        <entry key="ENGLISH" value="1144" />
+        <entry key="CHINESE" value="1144" />
+        <entry key="ENGLISH" value="1145" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
