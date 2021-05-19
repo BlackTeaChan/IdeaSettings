@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Operation" />
+      <item value="Log Annotation" />
       <item value="请求限时" />
       <item value="请求阀值" />
       <item value="API REQUEST TIMEOUT" />
@@ -49,13 +51,11 @@
       <item value="Contact" />
       <item value="our" />
       <item value="Unexpected exception from downstream" />
-      <item value="exclusions" />
-      <item value="exclusion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1146" />
-        <entry key="ENGLISH" value="1147" />
+        <entry key="CHINESE" value="1148" />
+        <entry key="ENGLISH" value="1149" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
