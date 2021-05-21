@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal Access Error" />
       <item value="STATE FAULT" />
       <item value="Api Operation" />
       <item value="Log Annotation" />
@@ -50,12 +51,11 @@
       <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually: " />
       <item value="add Resource Handlers" />
       <item value="Contact" />
-      <item value="our" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1149" />
-        <entry key="ENGLISH" value="1150" />
+        <entry key="CHINESE" value="1150" />
+        <entry key="ENGLISH" value="1151" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
