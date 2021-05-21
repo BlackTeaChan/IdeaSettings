@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sneaky Throws" />
+      <item value="Illegal Access Exception" />
+      <item value="Filter" />
+      <item value="restful Filter" />
       <item value="set Realm" />
       <item value="hashed Credentials Matcher" />
       <item value="Illegal Access Error" />
@@ -35,7 +39,6 @@
       <item value="author" />
       <item value="Codes are far away from bugs with the animal protecting" />
       <item value="FAINT" />
-      <item value="Illegal Access Exception" />
       <item value="共产" />
       <item value="Internal" />
       <item value="Internal Server Error" />
@@ -48,14 +51,11 @@
       <item value="logback" />
       <item value="冷" />
       <item value="deprecated" />
-      <item value="If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
-      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
-      <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually: " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1152" />
-        <entry key="ENGLISH" value="1153" />
+        <entry key="CHINESE" value="1156" />
+        <entry key="ENGLISH" value="1157" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
