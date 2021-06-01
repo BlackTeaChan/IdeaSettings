@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="west" />
       <item value="repackage" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-war-plugin:2.2:war (default-war) on project redbook-sys: Error assembling WAR: webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode)" />
       <item value="Jurisdiction" />
@@ -50,7 +51,6 @@
       <item value="Field logService in com.zjars.redbook.sys.advice.LogAdvice required a bean of type 'com.zjars.redbook.sys.dao.SysLogsDao' that could not be found." />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.zjars.redbook.service.dao.SysUserDirectorDao.count" />
       <item value="namespace" />
-      <item value="A component required a bean of type 'com.zjars.redbook.service.dao.IntegralTemplateDao' that could not be found." />
     </histories>
     <option name="languageScores">
       <map>
