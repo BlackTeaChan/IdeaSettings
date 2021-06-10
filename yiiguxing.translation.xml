@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Client register success" />
       <item value="flip" />
       <item value="since" />
       <item value="暂停" />
@@ -50,12 +51,11 @@
       <item value="Location Constants" />
       <item value="meter" />
       <item value="米" />
-      <item value="千米" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1184" />
-        <entry key="ENGLISH" value="1184" />
+        <entry key="ENGLISH" value="1185" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
