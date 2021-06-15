@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="路" />
+      <item value="loop" />
+      <item value="主机回路" />
+      <item value="way" />
+      <item value="回路" />
+      <item value="rote" />
+      <item value="origin Code" />
+      <item value="orgin Code" />
+      <item value="transform" />
+      <item value="转换" />
       <item value="Socket server received bytes" />
       <item value="接收到" />
       <item value="2021/06/10 15:09:19 [nioEventLoopGroup-3-1] INFO [dcs.timeserver.server.Serverhandler] - Socket server receive bytes: F0A1010F" />
@@ -41,27 +51,17 @@
       <item value="restful Filter" />
       <item value="set Realm" />
       <item value="hashed Credentials Matcher" />
-      <item value="Illegal Access Error" />
-      <item value="STATE FAULT" />
-      <item value="Api Operation" />
-      <item value="Log Annotation" />
-      <item value="请求限时" />
-      <item value="请求阀值" />
-      <item value="API REQUEST TIMEOUT" />
-      <item value="剪贴板" />
-      <item value="execute task" />
-      <item value="execute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1189" />
-        <entry key="ENGLISH" value="1190" />
+        <entry key="CHINESE" value="1198" />
+        <entry key="ENGLISH" value="1199" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="5" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
