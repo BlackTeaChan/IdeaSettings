@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="below" />
       <item value="路" />
       <item value="loop" />
       <item value="主机回路" />
@@ -50,11 +51,10 @@
       <item value="Filter" />
       <item value="restful Filter" />
       <item value="set Realm" />
-      <item value="hashed Credentials Matcher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1198" />
+        <entry key="CHINESE" value="1199" />
         <entry key="ENGLISH" value="1199" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
