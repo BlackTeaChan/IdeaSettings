@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RECONNECT INTERVAL TIME" />
+      <item value="准备重连" />
       <item value="tips" />
       <item value="提示" />
       <item value="Event" />
@@ -49,13 +51,11 @@
       <item value="UNAUTHORIZED" />
       <item value="BAD REQUEST" />
       <item value="NOT FOUND" />
-      <item value="token" />
-      <item value="Sneaky Throws" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1202" />
-        <entry key="ENGLISH" value="1202" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="1204" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
