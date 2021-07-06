@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nodename nor servname provided, or not known" />
+      <item value=" provided" />
+      <item value="nodename nor servname provided" />
+      <item value="connection" />
       <item value="BUCKET" />
       <item value="BUCKET NAME" />
       <item value="encode UTF 8" />
@@ -47,15 +51,11 @@
       <item value="Socket server received bytes" />
       <item value="接收到" />
       <item value="2021/06/10 15:09:19 [nioEventLoopGroup-3-1] INFO [dcs.timeserver.server.Serverhandler] - Socket server receive bytes: F0A1010F" />
-      <item value="bytes" />
-      <item value="recive" />
-      <item value="Client register success" />
-      <item value="flip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
-        <entry key="ENGLISH" value="1220" />
+        <entry key="CHINESE" value="1221" />
+        <entry key="ENGLISH" value="1221" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
