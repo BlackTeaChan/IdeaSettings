@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Unchanged" />
+      <item value="is Unchange" />
+      <item value="未改变" />
+      <item value="is Not Change" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test (default-test) on project redbook-sys: There are test failures. Please refer to /Users/blackteachan/IdeaProjects/redbook/redbook-sys/target/surefire-reports for the individual test results." />
       <item value="actually" />
       <item value="Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!" />
@@ -47,15 +51,11 @@
       <item value="Event" />
       <item value="Event Loop Group" />
       <item value="below" />
-      <item value="路" />
-      <item value="loop" />
-      <item value="主机回路" />
-      <item value="way" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1229" />
-        <entry key="ENGLISH" value="1230" />
+        <entry key="CHINESE" value="1233" />
+        <entry key="ENGLISH" value="1234" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
