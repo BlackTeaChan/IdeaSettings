@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="序列号" />
       <item value="is Unchanged" />
       <item value="is Unchange" />
       <item value="未改变" />
@@ -50,12 +51,11 @@
       <item value="提示" />
       <item value="Event" />
       <item value="Event Loop Group" />
-      <item value="below" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1233" />
-        <entry key="ENGLISH" value="1234" />
+        <entry key="CHINESE" value="1234" />
+        <entry key="ENGLISH" value="1235" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
