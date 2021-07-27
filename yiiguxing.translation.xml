@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEFAULT SPECIAL CHAR" />
+      <item value="redundant" />
+      <item value="check Keyboard Slant Site" />
+      <item value="repetitions" />
+      <item value="is Lower" />
+      <item value="brief" />
       <item value="receive" />
       <item value="无效" />
       <item value="非法" />
@@ -45,17 +51,11 @@
       <item value="运行状态" />
       <item value="参数" />
       <item value="check Run Profiles" />
-      <item value="runmode" />
-      <item value="运行模式" />
-      <item value="环境" />
-      <item value="运行环境" />
-      <item value="检查运行环境" />
-      <item value="There is no getter for property named 'ticket' in 'class com.zjars.redbook.bean.entity.JsapiTicketEntity'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1238" />
-        <entry key="ENGLISH" value="1239" />
+        <entry key="CHINESE" value="1243" />
+        <entry key="ENGLISH" value="1244" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
