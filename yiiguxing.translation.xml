@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Refresh activity status" />
+      <item value="Schedule" />
+      <item value="校验" />
+      <item value="无效" />
+      <item value="valid" />
+      <item value="非法" />
       <item value="DEFAULT SPECIAL CHAR" />
       <item value="redundant" />
       <item value="check Keyboard Slant Site" />
@@ -8,8 +14,6 @@
       <item value="is Lower" />
       <item value="brief" />
       <item value="receive" />
-      <item value="无效" />
-      <item value="非法" />
       <item value="合法" />
       <item value="discard" />
       <item value="废弃" />
@@ -47,15 +51,11 @@
       <item value="run In Produce" />
       <item value="生产" />
       <item value="check Spring Profiles" />
-      <item value="run" />
-      <item value="运行状态" />
-      <item value="参数" />
-      <item value="check Run Profiles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1243" />
-        <entry key="ENGLISH" value="1244" />
+        <entry key="CHINESE" value="1247" />
+        <entry key="ENGLISH" value="1248" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
