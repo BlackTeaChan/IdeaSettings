@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consider defining a bean of type 'com.zjars.hxproduction.dao.DemoDao' in your configuration." />
       <item value="FORBIDDEN" />
       <item value="UNAUTHORIZED" />
       <item value="scan Callback" />
@@ -50,12 +51,11 @@
       <item value="execute" />
       <item value="reject" />
       <item value="resolve" />
-      <item value="run as Produce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1250" />
-        <entry key="ENGLISH" value="1251" />
+        <entry key="CHINESE" value="1251" />
+        <entry key="ENGLISH" value="1252" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
