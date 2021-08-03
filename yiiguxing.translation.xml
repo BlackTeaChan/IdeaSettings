@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inherit" />
       <item value="Transform title into titlecase" />
       <item value="post asset folder" />
       <item value="relative link" />
@@ -50,11 +51,10 @@
       <item value="Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!" />
       <item value="GBK" />
       <item value="Skip" />
-      <item value="Identifier 'vConsole' has already been decl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
+        <entry key="CHINESE" value="1269" />
         <entry key="ENGLISH" value="1269" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
