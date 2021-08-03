@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transform title into titlecase" />
+      <item value="post asset folder" />
+      <item value="relative link" />
+      <item value="site-author-name-color" />
+      <item value="table-row-hover-bg-color" />
+      <item value="sidebar-nav-hover-color" />
+      <item value="// colors for use across theme." />
+      <item value="whitesmoke" />
+      <item value="$whitesmoke" />
       <item value="auto detect" />
       <item value="# Hide sticky headers and color the menu bar on Safari (iOS / macOS)." />
       <item value="Do not support scheme Mist" />
@@ -42,20 +51,11 @@
       <item value="GBK" />
       <item value="Skip" />
       <item value="Identifier 'vConsole' has already been decl" />
-      <item value="darwin" />
-      <item value="toggle PJ" />
-      <item value="proxy Target Class" />
-      <item value="nodename nor servname provided, or not known" />
-      <item value=" provided" />
-      <item value="nodename nor servname provided" />
-      <item value="connection" />
-      <item value="BUCKET" />
-      <item value="BUCKET NAME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1259" />
-        <entry key="ENGLISH" value="1260" />
+        <entry key="CHINESE" value="1268" />
+        <entry key="ENGLISH" value="1269" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
