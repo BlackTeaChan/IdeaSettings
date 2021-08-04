@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Version 9 of Highlight.js has reached EOL and is no longer supported. Please upgrade or ask whatever dependency you are using to upgrade. " />
       <item value="晚上" />
       <item value="Transactional" />
       <item value="Sql Helper" />
@@ -50,11 +51,10 @@
       <item value="未改变" />
       <item value="is Not Change" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test (default-test) on project redbook-sys: There are test failures. Please refer to /Users/blackteachan/IdeaProjects/redbook/redbook-sys/target/surefire-reports for the individual test results." />
-      <item value="actually" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1271" />
+        <entry key="CHINESE" value="1272" />
         <entry key="ENGLISH" value="1272" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
