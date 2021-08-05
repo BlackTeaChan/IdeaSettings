@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="entity" />
+      <item value="model" />
       <item value="you are editing a file which is ignored" />
       <item value="Version 9 of Highlight.js has reached EOL and is no longer supported. Please upgrade or ask whatever dependency you are using to upgrade. " />
       <item value="晚上" />
@@ -49,8 +51,6 @@
       <item value="序列号" />
       <item value="is Unchanged" />
       <item value="is Unchange" />
-      <item value="未改变" />
-      <item value="is Not Change" />
     </histories>
     <option name="languageScores">
       <map>
