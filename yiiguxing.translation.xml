@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stat-view-servlet" />
+      <item value="meta Object" />
       <item value="Valid" />
       <item value="Api Implicit Params" />
       <item value="allowable Values" />
@@ -49,13 +51,11 @@
       <item value="repetitions" />
       <item value="is Lower" />
       <item value="brief" />
-      <item value="receive" />
-      <item value="合法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1277" />
-        <entry key="ENGLISH" value="1278" />
+        <entry key="CHINESE" value="1279" />
+        <entry key="ENGLISH" value="1280" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
