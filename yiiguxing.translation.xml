@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allow Empty Value" />
       <item value="before" />
       <item value="default" />
       <item value="No Args Constructor" />
@@ -10,7 +11,6 @@
       <item value="Valid" />
       <item value="Api Implicit Params" />
       <item value="allowable Values" />
-      <item value="allow Empty Value" />
       <item value="instance" />
       <item value="values" />
       <item value="Could not autowire. No beans of 'S' type found.   Inspection info:Checks autowiring problems in a bean class." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1284" />
+        <entry key="CHINESE" value="1284" />
+        <entry key="ENGLISH" value="1285" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
