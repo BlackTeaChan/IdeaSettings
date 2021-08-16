@@ -14,11 +14,11 @@
     <mask>*Util.java</mask>
     <mask>*dao.java</mask>
     <mask>*.iml</mask>
-    <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
