@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unchecked generics array creation for varargs parameter " />
       <item value="construct" />
       <item value="Inner class 'CodeDate' may be 'static' " />
       <item value="前缀" />
@@ -50,11 +51,10 @@
       <item value="you are editing a file which is ignored" />
       <item value="Version 9 of Highlight.js has reached EOL and is no longer supported. Please upgrade or ask whatever dependency you are using to upgrade. " />
       <item value="晚上" />
-      <item value="Transactional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1309" />
+        <entry key="CHINESE" value="1310" />
         <entry key="ENGLISH" value="1310" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
