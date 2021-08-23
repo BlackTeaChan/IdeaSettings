@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[WARNING] Table configuration with catalog null, schema null, and table hx-production did not resolve to any tables" />
+      <item value="Table configuration with catalog null, schema null, and table user did not resolve to any tables" />
+      <item value="Introspecting table user" />
+      <item value="Error stacktraces are turned on" />
       <item value="人力资源" />
       <item value="Unchecked generics array creation for varargs parameter " />
       <item value="construct" />
@@ -47,15 +51,11 @@
       <item value="instance" />
       <item value="values" />
       <item value="Could not autowire. No beans of 'S' type found.   Inspection info:Checks autowiring problems in a bean class." />
-      <item value="entity" />
-      <item value="model" />
-      <item value="you are editing a file which is ignored" />
-      <item value="Version 9 of Highlight.js has reached EOL and is no longer supported. Please upgrade or ask whatever dependency you are using to upgrade. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1310" />
-        <entry key="ENGLISH" value="1311" />
+        <entry key="CHINESE" value="1314" />
+        <entry key="ENGLISH" value="1315" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
