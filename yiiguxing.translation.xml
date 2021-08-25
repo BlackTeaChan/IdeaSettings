@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="处置" />
+      <item value="production" />
+      <item value="product" />
+      <item value="statistics" />
+      <item value="统计" />
       <item value="wrapper" />
       <item value="段" />
       <item value="section" />
@@ -45,17 +51,11 @@
       <item value="提交订单" />
       <item value="Place" />
       <item value="下单" />
-      <item value="理发师" />
-      <item value="顾客" />
-      <item value="unauthorized" />
-      <item value="allow Empty Value" />
-      <item value="before" />
-      <item value="default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1320" />
-        <entry key="ENGLISH" value="1320" />
+        <entry key="CHINESE" value="1324" />
+        <entry key="ENGLISH" value="1324" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
