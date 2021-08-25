@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="恢复时间" />
       <item value="已恢复" />
       <item value="报警中" />
       <item value="chain" />
@@ -50,7 +51,6 @@
       <item value="stat-view-servlet" />
       <item value="meta Object" />
       <item value="Valid" />
-      <item value="Api Implicit Params" />
     </histories>
     <option name="languageScores">
       <map>
