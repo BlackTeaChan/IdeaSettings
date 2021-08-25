@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="id Array" />
+      <item value="batch Query History" />
+      <item value="批量" />
+      <item value="statistics" />
       <item value="次数" />
       <item value="质检次数" />
       <item value="consumption" />
@@ -23,7 +27,6 @@
       <item value="处置" />
       <item value="production" />
       <item value="product" />
-      <item value="statistics" />
       <item value="统计" />
       <item value="wrapper" />
       <item value="段" />
@@ -48,14 +51,11 @@
       <item value="PENDING" />
       <item value="CANCEL" />
       <item value="RELEASE" />
-      <item value="VICEPROD" />
-      <item value="suprise" />
-      <item value="时间戳" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1329" />
-        <entry key="ENGLISH" value="1330" />
+        <entry key="CHINESE" value="1333" />
+        <entry key="ENGLISH" value="1334" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
