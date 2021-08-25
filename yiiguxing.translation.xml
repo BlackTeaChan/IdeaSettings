@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wrapper" />
       <item value="段" />
       <item value="section" />
       <item value="超市超市超市" />
@@ -50,11 +51,10 @@
       <item value="allow Empty Value" />
       <item value="before" />
       <item value="default" />
-      <item value="No Args Constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1319" />
+        <entry key="CHINESE" value="1320" />
         <entry key="ENGLISH" value="1320" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
