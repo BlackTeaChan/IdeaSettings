@@ -1,9 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="次数" />
+      <item value="质检次数" />
+      <item value="consumption" />
+      <item value="能耗" />
+      <item value="质检" />
+      <item value="qualif" />
+      <item value="qualifi" />
+      <item value="qualified" />
+      <item value="合格" />
+      <item value="regular" />
+      <item value="hege" />
+      <item value="考勤分布" />
+      <item value="Attendance" />
+      <item value="考勤" />
+      <item value="收益" />
       <item value="收益率" />
       <item value="收率" />
-      <item value="收益" />
       <item value="产量" />
       <item value="handle" />
       <item value="处置" />
@@ -37,25 +51,11 @@
       <item value="VICEPROD" />
       <item value="suprise" />
       <item value="时间戳" />
-      <item value="Codes are far away from bugs with the animal protecting" />
-      <item value="AUTO LOGIN TIME INTERVAL" />
-      <item value="scss" />
-      <item value="scoped" />
-      <item value="current user" />
-      <item value="无效" />
-      <item value="order" />
-      <item value="抢单" />
-      <item value="Grade" />
-      <item value="WRITE" />
-      <item value="action" />
-      <item value="operation" />
-      <item value="Grab" />
-      <item value="push-orders" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1324" />
-        <entry key="ENGLISH" value="1325" />
+        <entry key="CHINESE" value="1329" />
+        <entry key="ENGLISH" value="1330" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
