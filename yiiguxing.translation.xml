@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Realtime Data" />
+      <item value="get Real" />
       <item value="Required List parameter 'ids' is not present" />
       <item value="{&quot;error&quot;:&quot;error parsing query: unable to find time zone Asia/Shanghai&quot;}" />
       <item value="java.text.ParseException: Unparseable date: &quot;2021-08-25T04:59:21.657Z&quot;" />
@@ -49,13 +51,11 @@
       <item value="Unchecked generics array creation for varargs parameter " />
       <item value="construct" />
       <item value="Inner class 'CodeDate' may be 'static' " />
-      <item value="前缀" />
-      <item value="生成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1336" />
-        <entry key="ENGLISH" value="1336" />
+        <entry key="CHINESE" value="1337" />
+        <entry key="ENGLISH" value="1338" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
