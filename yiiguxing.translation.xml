@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未开始" />
+      <item value="producted" />
+      <item value="生产中" />
+      <item value="PRODUCTION" />
+      <item value="进料出料" />
+      <item value="进料" />
+      <item value="An enum switch case label must be the unqualified name of an enumeration constant" />
+      <item value="Constant expression required" />
       <item value="schedule Log" />
       <item value="听" />
       <item value="监听" />
@@ -43,19 +51,11 @@
       <item value="统计" />
       <item value="wrapper" />
       <item value="段" />
-      <item value="section" />
-      <item value="超市超市超市" />
-      <item value="工艺段" />
-      <item value="恢复时间" />
-      <item value="已恢复" />
-      <item value="报警中" />
-      <item value="chain" />
-      <item value="Accessors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1342" />
-        <entry key="ENGLISH" value="1343" />
+        <entry key="CHINESE" value="1346" />
+        <entry key="ENGLISH" value="1347" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
