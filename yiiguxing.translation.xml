@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="每秒监听" />
+      <item value="秒级监听" />
+      <item value="秒级" />
       <item value="未开始" />
       <item value="producted" />
       <item value="生产中" />
@@ -48,9 +51,6 @@
       <item value="处置" />
       <item value="production" />
       <item value="product" />
-      <item value="统计" />
-      <item value="wrapper" />
-      <item value="段" />
     </histories>
     <option name="languageScores">
       <map>
