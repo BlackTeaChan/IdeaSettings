@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Construct" />
+      <item value="Post Construct" />
+      <item value="PostConstruct" />
       <item value="要更新" />
       <item value="RESTORED" />
       <item value="处理" />
@@ -48,13 +51,10 @@
       <item value="考勤分布" />
       <item value="Attendance" />
       <item value="考勤" />
-      <item value="收益" />
-      <item value="收益率" />
-      <item value="收率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1350" />
+        <entry key="CHINESE" value="1351" />
         <entry key="ENGLISH" value="1351" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
