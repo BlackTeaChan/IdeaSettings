@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理" />
+      <item value="handle" />
       <item value="get Trend Data" />
       <item value="每秒监听" />
       <item value="秒级监听" />
@@ -48,14 +50,12 @@
       <item value="收益率" />
       <item value="收率" />
       <item value="产量" />
-      <item value="handle" />
       <item value="处置" />
-      <item value="production" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1347" />
-        <entry key="ENGLISH" value="1348" />
+        <entry key="CHINESE" value="1348" />
+        <entry key="ENGLISH" value="1349" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
