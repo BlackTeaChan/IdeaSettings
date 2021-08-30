@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Care" />
+      <item value="AppleCare" />
+      <item value="case" />
       <item value="Construct" />
       <item value="Post Construct" />
       <item value="PostConstruct" />
@@ -48,9 +51,6 @@
       <item value="合格" />
       <item value="regular" />
       <item value="hege" />
-      <item value="考勤分布" />
-      <item value="Attendance" />
-      <item value="考勤" />
     </histories>
     <option name="languageScores">
       <map>
