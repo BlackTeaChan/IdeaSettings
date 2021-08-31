@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="starting" />
+      <item value="开始" />
+      <item value="结束" />
+      <item value="开始中" />
+      <item value="STARTED" />
       <item value="flip" />
       <item value="not exist" />
       <item value="not to exist" />
@@ -46,16 +51,11 @@
       <item value="id Array" />
       <item value="batch Query History" />
       <item value="批量" />
-      <item value="statistics" />
-      <item value="次数" />
-      <item value="质检次数" />
-      <item value="consumption" />
-      <item value="能耗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1354" />
-        <entry key="ENGLISH" value="1353" />
+        <entry key="CHINESE" value="1355" />
+        <entry key="ENGLISH" value="1355" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
