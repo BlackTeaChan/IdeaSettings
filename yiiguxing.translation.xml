@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="### Error updating database. Cause: java.sql.SQLException: sql injection violation, syntax error, expect RPAREN, actual COMMA VARCHAR : INSERT INTO yx_i_student_fmxx(xh,xm,sznj,sfzjlx,sfzjhm,sfzz,sfsb)" />
+      <item value="Caused by: java.sql.SQLException: sql injection violation, syntax error, expect RPAREN, actual COMMA VARCHAR : INSERT INTO yx_i_student_fmxx(xh,xm,sznj,sfzjlx,sfzjhm,sfzz,sfsb)" />
       <item value="exclusions" />
       <item value="FLOAT BYTE SIZE" />
       <item value="receive" />
@@ -49,13 +51,11 @@
       <item value="听" />
       <item value="监听" />
       <item value="listen" />
-      <item value="InfluxDB query used time: 76ms" />
-      <item value="InfluxDB query used: 76ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1361" />
-        <entry key="ENGLISH" value="1362" />
+        <entry key="CHINESE" value="1363" />
+        <entry key="ENGLISH" value="1364" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
