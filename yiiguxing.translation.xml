@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{&quot;error&quot;:&quot;error parsing query: found 06, expected ; at line 1, char 74&quot;}" />
       <item value="体积" />
       <item value="java.time.format.DateTimeParseException: Text '2021-09-03T09:08:09.588Z' could not be parsed at index 19" />
       <item value="java.lang.IllegalArgumentException: Too many pattern letters: s" />
@@ -50,12 +51,11 @@
       <item value="秒级监听" />
       <item value="秒级" />
       <item value="未开始" />
-      <item value="producted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1369" />
-        <entry key="ENGLISH" value="1370" />
+        <entry key="CHINESE" value="1370" />
+        <entry key="ENGLISH" value="1371" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
