@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MINUTES" />
+      <item value="MILLISECONDS" />
+      <item value="MICROSECONDS" />
+      <item value="* Execute a query against a database. * * @param query * the query to execute. * @param timeUnit the time unit of the results. * @return a List of Series which matched the query." />
+      <item value="源码" />
+      <item value="test Resource Code" />
+      <item value="* Execute a query against a database. * * One of the consumers will be executed. * * @param query * the query to execute. * @param onSuccess * the consumer to invoke when result is received * @param onFailure * the consumer to invoke when error is thrown */" />
       <item value="时间戳" />
       <item value="complete" />
       <item value="完整" />
@@ -44,18 +51,11 @@
       <item value="NAN" />
       <item value="reactor Id" />
       <item value="Care" />
-      <item value="AppleCare" />
-      <item value="case" />
-      <item value="Construct" />
-      <item value="Post Construct" />
-      <item value="PostConstruct" />
-      <item value="要更新" />
-      <item value="RESTORED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1376" />
-        <entry key="ENGLISH" value="1377" />
+        <entry key="CHINESE" value="1386" />
+        <entry key="ENGLISH" value="1387" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
