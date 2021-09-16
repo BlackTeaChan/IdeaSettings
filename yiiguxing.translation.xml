@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="export Temp Dir" />
       <item value="Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use &lt;#if myOptionalVar??&gt;when-present&lt;#else&gt;when-missing&lt;/#if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??" />
       <item value="FTL stack trace (&quot;~&quot; means nesting-related):" />
       <item value="rowspan" />
@@ -50,7 +51,6 @@
       <item value="FLOAT BYTE SIZE" />
       <item value="receive" />
       <item value="游泳" />
-      <item value="Arith" />
     </histories>
     <option name="languageScores">
       <map>
