@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product" />
       <item value="call Super" />
       <item value="export Temp Dir" />
       <item value="Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use &lt;#if myOptionalVar??&gt;when-present&lt;#else&gt;when-missing&lt;/#if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??" />
@@ -50,11 +51,10 @@
       <item value="Caused by: java.sql.SQLException: sql injection violation, syntax error, expect RPAREN, actual COMMA VARCHAR : INSERT INTO yx_i_student_fmxx(xh,xm,sznj,sfzjlx,sfzjhm,sfzz,sfsb)" />
       <item value="exclusions" />
       <item value="FLOAT BYTE SIZE" />
-      <item value="receive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1400" />
+        <entry key="CHINESE" value="1401" />
         <entry key="ENGLISH" value="1400" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
