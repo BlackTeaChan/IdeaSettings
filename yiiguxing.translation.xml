@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="workshop Condition" />
       <item value="practice Credit" />
       <item value="16:20:10 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 190 forwardToErrorPage - Forwarding to error page from request [/search_user/exportCjd] due to exception [Task com.ars.zptc_ekt.controller.Search_user_controller$$Lambda$896/1623752136@24e0823d rejected from java.util.concurrent.ThreadPoolExecutor@2fcd0844[Terminated, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1]] java.util.concurrent.RejectedExecutionException: Task com.ars.zptc_ekt.controller.Search_user_controller$$Lambda$896/1623752136@24e0823d rejected from java.util.concurrent.ThreadPoolExecutor@2fcd0844[Terminated, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1] at java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2063) ~[?:1.8.0_181] at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:830) ~[?:1.8.0_181] at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1379) ~[?:1.8.0_181]" />
       <item value="product" />
@@ -50,7 +51,6 @@
       <item value="Flowmeter" />
       <item value="流量计" />
       <item value="### Error updating database. Cause: java.sql.SQLException: sql injection violation, syntax error, expect RPAREN, actual COMMA VARCHAR : INSERT INTO yx_i_student_fmxx(xh,xm,sznj,sfzjlx,sfzjhm,sfzz,sfsb)" />
-      <item value="Caused by: java.sql.SQLException: sql injection violation, syntax error, expect RPAREN, actual COMMA VARCHAR : INSERT INTO yx_i_student_fmxx(xh,xm,sznj,sfzjlx,sfzjhm,sfzz,sfsb)" />
     </histories>
     <option name="languageScores">
       <map>
