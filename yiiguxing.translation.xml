@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alarm Statistics" />
       <item value="Broken pipe" />
       <item value="workshop Condition" />
       <item value="practice Credit" />
@@ -50,7 +51,6 @@
       <item value="Flow" />
       <item value="Flow meter" />
       <item value="Flowmeter" />
-      <item value="流量计" />
     </histories>
     <option name="languageScores">
       <map>
