@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Local Date Time" />
+      <item value="alarm Service" />
       <item value="Cannot deserialize instance of `java.lang.Long` out of START_OBJECT token" />
       <item value="alarm Statistics" />
       <item value="Broken pipe" />
@@ -49,8 +51,6 @@
       <item value="undel" />
       <item value="时间差" />
       <item value="out Flowmeter" />
-      <item value="Flow" />
-      <item value="Flow meter" />
     </histories>
     <option name="languageScores">
       <map>
