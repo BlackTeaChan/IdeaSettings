@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是" />
       <item value="Local Date Time" />
       <item value="alarm Service" />
       <item value="Cannot deserialize instance of `java.lang.Long` out of START_OBJECT token" />
@@ -50,12 +51,11 @@
       <item value="java.lang.IllegalArgumentException: Too many pattern letters: s" />
       <item value="undel" />
       <item value="时间差" />
-      <item value="out Flowmeter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1401" />
-        <entry key="ENGLISH" value="1400" />
+        <entry key="CHINESE" value="1402" />
+        <entry key="ENGLISH" value="1401" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
@@ -85,12 +85,14 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1633663953133" />
+  </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
