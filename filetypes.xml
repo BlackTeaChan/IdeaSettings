@@ -9,6 +9,8 @@
       <mapping pattern="啊是哒是哒收到" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="啊" type="PLAIN_TEXT" />
+      <mapping pattern="PlanStateEnum" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="channel2_0" type="PLAIN_TEXT" />
       <mapping pattern="asdads" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />

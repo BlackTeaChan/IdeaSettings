@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="is Unchanged" />
-      <item value="is Unchange" />
-      <item value="未改变" />
-      <item value="is Not Change" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test (default-test) on project redbook-sys: There are test failures. Please refer to /Users/blackteachan/IdeaProjects/redbook/redbook-sys/target/surefire-reports for the individual test results." />
-      <item value="actually" />
-      <item value="Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!" />
-      <item value="GBK" />
-      <item value="Skip" />
-      <item value="Identifier 'vConsole' has already been decl" />
-      <item value="darwin" />
-      <item value="toggle PJ" />
-      <item value="proxy Target Class" />
-      <item value="nodename nor servname provided, or not known" />
-      <item value=" provided" />
-      <item value="nodename nor servname provided" />
-      <item value="connection" />
-      <item value="BUCKET" />
-      <item value="BUCKET NAME" />
-      <item value="encode UTF 8" />
-      <item value="readied" />
-      <item value="readyed" />
-      <item value="ready" />
-      <item value="_wx Reaied" />
-      <item value="execute" />
-      <item value="reject" />
-      <item value="resolve" />
-      <item value="run as Produce" />
-      <item value="run In Produce" />
-      <item value="生产" />
-      <item value="check Spring Profiles" />
-      <item value="run" />
-      <item value="运行状态" />
-      <item value="参数" />
-      <item value="check Run Profiles" />
-      <item value="runmode" />
-      <item value="运行模式" />
-      <item value="环境" />
-      <item value="运行环境" />
-      <item value="检查运行环境" />
-      <item value="There is no getter for property named 'ticket' in 'class com.zjars.redbook.bean.entity.JsapiTicketEntity'" />
-      <item value="nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ticket' in 'class com.zjars.redbook.bean.entity.JsapiTicketEntity' org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ticket' in 'class com.zjars.redbook.bean.entity.JsapiTicketEntity" />
-      <item value="david" />
-      <item value="RECONNECT INTERVAL TIME" />
-      <item value="准备重连" />
-      <item value="tips" />
-      <item value="提示" />
-      <item value="Event" />
-      <item value="Event Loop Group" />
-      <item value="below" />
+      <item value="是" />
+      <item value="Local Date Time" />
+      <item value="alarm Service" />
+      <item value="Cannot deserialize instance of `java.lang.Long` out of START_OBJECT token" />
+      <item value="alarm Statistics" />
+      <item value="Broken pipe" />
+      <item value="workshop Condition" />
+      <item value="practice Credit" />
+      <item value="16:20:10 ERROR org.springframework.boot.web.servlet.support.ErrorPageFilter 190 forwardToErrorPage - Forwarding to error page from request [/search_user/exportCjd] due to exception [Task com.ars.zptc_ekt.controller.Search_user_controller$$Lambda$896/1623752136@24e0823d rejected from java.util.concurrent.ThreadPoolExecutor@2fcd0844[Terminated, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1]] java.util.concurrent.RejectedExecutionException: Task com.ars.zptc_ekt.controller.Search_user_controller$$Lambda$896/1623752136@24e0823d rejected from java.util.concurrent.ThreadPoolExecutor@2fcd0844[Terminated, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1] at java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2063) ~[?:1.8.0_181] at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:830) ~[?:1.8.0_181] at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1379) ~[?:1.8.0_181]" />
+      <item value="product" />
+      <item value="call Super" />
+      <item value="export Temp Dir" />
+      <item value="Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use &lt;#if myOptionalVar??&gt;when-present&lt;#else&gt;when-missing&lt;/#if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??" />
+      <item value="FTL stack trace (&quot;~&quot; means nesting-related):" />
+      <item value="rowspan" />
+      <item value="point" />
+      <item value="前缀" />
+      <item value="期望产量" />
+      <item value="operation" />
+      <item value="chain" />
+      <item value="Equals And Hash Code" />
+      <item value="Accessors" />
+      <item value="occurred while executing an update" />
+      <item value="get Timestamp" />
+      <item value="Invalid argument" />
+      <item value="未开始" />
+      <item value="FINISH" />
+      <item value="READY" />
+      <item value="最早" />
+      <item value="timestamp" />
+      <item value="MINUTES" />
+      <item value="MILLISECONDS" />
+      <item value="MICROSECONDS" />
+      <item value="* Execute a query against a database. * * @param query * the query to execute. * @param timeUnit the time unit of the results. * @return a List of Series which matched the query." />
+      <item value="源码" />
+      <item value="test Resource Code" />
+      <item value="* Execute a query against a database. * * One of the consumers will be executed. * * @param query * the query to execute. * @param onSuccess * the consumer to invoke when result is received * @param onFailure * the consumer to invoke when error is thrown */" />
+      <item value="时间戳" />
+      <item value="complete" />
+      <item value="完整" />
+      <item value="Volume" />
+      <item value="get Volume By History" />
+      <item value="set Yield" />
+      <item value="dot Index" />
+      <item value="{&quot;error&quot;:&quot;error parsing query: found 06, expected ; at line 1, char 74&quot;}" />
+      <item value="体积" />
+      <item value="java.time.format.DateTimeParseException: Text '2021-09-03T09:08:09.588Z' could not be parsed at index 19" />
+      <item value="java.lang.IllegalArgumentException: Too many pattern letters: s" />
+      <item value="undel" />
+      <item value="时间差" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1233" />
-        <entry key="ENGLISH" value="1234" />
+        <entry key="CHINESE" value="1402" />
+        <entry key="ENGLISH" value="1401" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
@@ -77,14 +77,22 @@
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="3" />
-        <entry key="GREEK" value="1" />
+        <entry key="GREEK" value="3" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1633663953133" />
+  </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
