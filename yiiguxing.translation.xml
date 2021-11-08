@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="782" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="漏检" />
+      <item value="l" />
       <item value="生成" />
       <item value="每日巡检数据" />
       <item value="每日巡检" />
@@ -52,13 +54,11 @@
       <item value="get Volume By History" />
       <item value="set Yield" />
       <item value="dot Index" />
-      <item value="{&quot;error&quot;:&quot;error parsing query: found 06, expected ; at line 1, char 74&quot;}" />
-      <item value="体积" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1407" />
-        <entry key="ENGLISH" value="1406" />
+        <entry key="CHINESE" value="1415" />
+        <entry key="ENGLISH" value="1414" />
         <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
